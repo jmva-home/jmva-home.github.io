@@ -1,0 +1,9 @@
+/_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+/.bundle/
+/vendor/
+
+# Jekyll layouts are source files, even when a global rule ignores HTML.
+!/_layouts/*.html

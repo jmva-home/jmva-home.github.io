@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <meta name="theme-color" content="#173d47">
+    <title>{{ site.title | escape }} · {{ page.title | escape }}</title>
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="masthead">
+      <div class="page-width masthead-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="JMVA editorial companion home">
+          <span class="brand-mark" aria-hidden="true">JMVA</span>
+          <span class="brand-label">Editorial companion</span>
+        </a>
+        <a class="publisher-link" href="{{ site.journal_url }}">Journal at Elsevier <span aria-hidden="true">↗</span></a>
+      </div>
+    </header>
+
+    <div class="page-width">
+      <section class="hero" aria-labelledby="journal-title">
+        <p class="eyebrow"><span class="accent-line" aria-hidden="true"></span> For the JMVA community</p>
+        <h1 id="journal-title">{{ site.title | escape }}</h1>
+        <p class="hero-description">Editorial updates and resources.<br>A shared reference for your next contribution.</p>
+      </section>
+
+      <nav class="section-nav" aria-label="On this page">
+        <a href="#editorial-messages"><span aria-hidden="true">01</span> Editorial messages</a>
+        <a href="#calls-for-special-issues"><span aria-hidden="true">02</span> Special issues</a>
+        <a href="#editor-confirmed-templates"><span aria-hidden="true">03</span> Templates</a>
+      </nav>
+
+      <div class="content-grid">
+        <main id="main-content" class="editorial-content" tabindex="-1">
+          {{ content }}
+        </main>
+
+        <aside class="author-desk" aria-labelledby="author-desk-heading">
+          <p class="eyebrow">Useful links</p>
+          <h2 id="author-desk-heading">The author's desk</h2>
+          <p>Keep the journal's publishing resources close at hand.</p>
+          <ul class="resource-links">
+            <li>
+              <a href="{{ site.author_guide_url }}">
+                <span>Guide for Authors<small>Manuscript preparation</small></span>
+                <span aria-hidden="true">↗</span>
+              </a>
+            </li>
+            <li>
+              <a href="{{ site.journal_url }}">
+                <span>Journal homepage<small>Articles and journal information</small></span>
+                <span aria-hidden="true">↗</span>
+              </a>
+            </li>
+          </ul>
+          <p class="companion-note">This companion page is maintained by a JMVA associate editor. Consult the publisher's website for current journal policies and submission requirements.</p>
+        </aside>
+      </div>
+
+      <footer class="site-footer">
+        <p><span class="footer-mark">JMVA</span> Editorial companion</p>
+        <p>Last updated <time datetime="{{ page.last_updated }}">{{ page.last_updated | date: '%-d %B %Y' }}</time></p>
+      </footer>
+    </div>
+  </body>
+</html>

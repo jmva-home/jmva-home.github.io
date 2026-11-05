@@ -1,0 +1,17 @@
+title: Journal of Multivariate Analysis
+description: Editorial messages, special issue calls, and editor-confirmed templates for the JMVA community.
+url: https://jmva-home.github.io
+baseurl: ""
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
+
+journal_url: https://www.sciencedirect.com/journal/journal-of-multivariate-analysis
+author_guide_url: https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/publish/guide-for-authors
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
