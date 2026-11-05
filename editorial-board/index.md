@@ -1,0 +1,14 @@
+---
+layout: default
+title: Editorial board
+permalink: /editorial-board/
+editorial_board: true
+last_updated: "2026-11-05"
+---
+
+## About this directory
+
+Names, roles, affiliations, and research interests follow the
+[publisher's editorial board](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/editorial-board).
+Members with more than one role appear once, with each role shown.
+Where research interests are not listed, you can search by name or browse by role.
