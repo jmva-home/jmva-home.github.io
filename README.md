@@ -42,8 +42,8 @@ automated fetch, is the basis for this directory.
 
 Edit **`_data/editorial_board.yml`** to update the directory. Each member has a
 name, optional credentials, roles, affiliation, research interests, and an
-optional verified profile link. Keep missing research interests as `[]`; the
-page explicitly says they are not listed. Currently four people have no listed
+optional verified profile link. Keep missing research interests as `[]`; their
+cards omit the research-interest field. Currently four people have no listed
 research interests: Dietrich von Rosen, Tõnu Kollo, Albert Vexler, and Sylvia
 Frühwirth-Schnatter.
 

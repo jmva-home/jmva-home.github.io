@@ -42,11 +42,8 @@
       </div>
       <h3>{% if member.profile_url != '' %}<a href="{{ member.profile_url | escape }}">{{ member.name | escape }}</a>{% else %}{{ member.name | escape }}{% endif %}{% if member.credentials != '' %}<span class="board-credentials">, {{ member.credentials | escape }}</span>{% endif %}</h3>
       <p class="board-affiliation">{{ member.affiliation | escape }}</p>
-      <p class="board-interest-label">Research interests</p>
       {% if member.interests.size > 0 %}
-      <p class="board-interests">{{ member.interests | join: '; ' | escape }}</p>
-      {% else %}
-      <p class="board-interests board-unlisted">Not listed on the publisher's page.</p>
+      <p class="board-interests"><span class="board-interest-label">Research Interests:</span> {{ member.interests | join: '; ' | escape }}</p>
       {% endif %}
     </li>
     {% endfor %}
