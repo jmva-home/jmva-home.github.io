@@ -22,11 +22,19 @@
     .replace(/[^\p{L}\p{N}]+/gu, " ")
     .trim();
 
-  const members = [...board.querySelectorAll("[data-board-member]")].map((element) => ({
-    element,
-    terms: normalise(`${element.dataset.name} ${element.dataset.interests}`).split(/\s+/),
-    roles: element.dataset.roles.split("|"),
-  }));
+  const members = [...board.querySelectorAll("[data-board-member]")].map((element) => {
+    const affiliation = element.dataset.affiliation || "";
+    const location = normalise(affiliation);
+    const aliases = /\bunited states(?: of america)?(?: the)?$/.test(location)
+      ? "US USA"
+      : /\bunited kingdom$/.test(location) ? "UK" : "";
+
+    return {
+      element,
+      terms: normalise(`${element.dataset.name} ${element.dataset.interests} ${affiliation} ${aliases}`).split(/\s+/),
+      roles: element.dataset.roles.split("|"),
+    };
+  });
 
   const render = () => {
     const query = normalise(search.value);

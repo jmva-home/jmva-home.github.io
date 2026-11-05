@@ -61,9 +61,10 @@ and repeated terms. When refreshing the board, preserve the new source text and
 update the date, provenance, checksum, member count, role counts, and missing
 interest list in the YAML.
 
-Search matches names and research interests, ignoring accents, case, and
-punctuation. Every search word must match the beginning of a word in a name or
-research interest, and the optional role filter narrows
+Search matches names, research interests, and affiliations (including countries),
+ignoring accents, case, and punctuation. `USA` and `US` also match United States
+affiliations, and `UK` matches United Kingdom affiliations. Every search word must
+match the beginning of a word in these fields, and the optional role filter narrows
 the results further. The page initially shows 12 people, with a button to show
 more. All members remain readable when JavaScript is disabled. No search query
 is sent to a server, and there is no runtime request to ScienceDirect.

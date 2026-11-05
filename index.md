@@ -2,7 +2,7 @@
 layout: default
 title: Editorial companion
 permalink: /
-last_updated: "2026-11-05"
+last_updated: "2026-11-06"
 ---
 
 ## Editorial messages
@@ -37,6 +37,6 @@ formatting and style.
 
 ## Editorial board
 
-Find board members by name, research interest, or editorial role.
+Find board members by name, research interest, institution, country, or editorial role.
 
 [Search the editorial board →]({{ '/editorial-board/' | relative_url }})
