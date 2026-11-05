@@ -119,8 +119,10 @@ server, run `bundle exec jekyll build`.
 | `_layouts/default.html` | Masthead, navigation, author links, and footer |
 | `assets/css/style.css` | Colours, typography, and responsive layout |
 
-The site uses a quiet paper background, serif headings, and a single-column
-layout on small screens. Publisher links lead to the journal's
+The site uses a warm paper background, a deep teal masthead, serif headings,
+and stronger text and border contrast. Navigation and author links sit on muted
+green panels, and the layout becomes a single column on small screens.
+Publisher links lead to the journal's
 [ScienceDirect homepage](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis)
 and its
 [Guide for Authors](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/publish/guide-for-authors).
