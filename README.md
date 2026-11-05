@@ -119,9 +119,12 @@ server, run `bundle exec jekyll build`.
 | `_layouts/default.html` | Masthead, navigation, author links, and footer |
 | `assets/css/style.css` | Colours, typography, and responsive layout |
 
-The site uses a warm paper background, a deep teal masthead, serif headings,
-and stronger text and border contrast. Navigation and author links sit on muted
-green panels, and the layout becomes a single column on small screens.
+The palette follows the publisher's
+[JMVA journal cover](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/0047259X.jpg):
+burnt orange, terracotta, and cream. The masthead and navigation use deep burnt
+orange, with a warm paper background and serif headings. Navigation labels and
+numbers are larger, and links stack at full width on small screens. The content
+layout becomes a single column on smaller screens.
 Publisher links lead to the journal's
 [ScienceDirect homepage](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis)
 and its
