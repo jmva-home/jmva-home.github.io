@@ -4,6 +4,7 @@
 /.sass-cache/
 /.bundle/
 /vendor/
+/JMVA-templates/
 
 # Jekyll layouts are source files, even when a global rule ignores HTML.
 !/_layouts/*.html
