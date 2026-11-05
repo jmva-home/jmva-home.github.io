@@ -5,13 +5,17 @@ permalink: /templates/
 last_updated: "2026-11-05"
 ---
 
-## Editor-confirmed templates
+## Editor-approved templates
 
 ### JMVA LaTeX template
 
-Please use the **JMVA LaTeX template** when preparing your manuscript for the
-*Journal of Multivariate Analysis*. You can browse the source files on GitHub
-or download the latest template as a ZIP archive:
+The editors ask authors to prepare manuscripts using the **editor-approved
+JMVA LaTeX template** instead of Elsevier's standard template. It is tailored
+to the formatting and stylistic requirements of the *Journal of Multivariate
+Analysis*.
+
+You can browse the source files on GitHub or download the latest template as
+a ZIP archive:
 
 - [Go to the template repository](https://github.com/jmva-home/JMVA-templates)
 - [Download the latest template (ZIP)](https://github.com/jmva-home/JMVA-templates/archive/refs/heads/main.zip)

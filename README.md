@@ -1,8 +1,9 @@
 # JMVA editorial companion
 
 A simple Markdown website for the *Journal of Multivariate Analysis*,
-maintained by a JMVA associate editor. Built with Jekyll for GitHub Pages,
-with no JavaScript, external fonts, or theme dependencies.
+maintained by Editor in Chief Dietrich von Rosen and Associate Editor Feng Li.
+Built with Jekyll for GitHub Pages, with a small JavaScript enhancement for
+editorial board search and no external fonts or theme dependencies.
 
 ## Edit the content
 
@@ -10,10 +11,11 @@ The homepage links to three sections, each in its own subfolder:
 
 | File | Content |
 | --- | --- |
-| [index.md](index.md) | Homepage overview and links to the sections |
+| [index.md](index.md) | Homepage overview, section links, and the `editorial_board` display setting |
 | [editorial-messages/index.md](editorial-messages/index.md) | Editorial announcements and important notices |
 | [special-issues/index.md](special-issues/index.md) | Confirmed calls, guest editors, and deadlines |
 | [templates/index.md](templates/index.md) | JMVA LaTeX template repository, latest ZIP download, and preparation instructions |
+| [_data/editorial_board.yml](_data/editorial_board.yml) | Editorial board names, roles, affiliations, and research interests |
 
 Edit the text using ordinary Markdown and update `last_updated` in the front
 matter of the page you changed. Keep the folders and `permalink` values unchanged
@@ -23,8 +25,46 @@ an important notice. Remove a section's empty-state text when adding its first e
 
 The editorial page contains a welcome message, and the special issues page
 has an empty state until a confirmed call is posted. The homepage and Templates
-page ask authors to use the JMVA LaTeX template and link to its GitHub repository
-and latest ZIP download.
+page explain that the editors ask authors to use the editor-approved JMVA LaTeX
+template in place of Elsevier's standard template to follow JMVA's own style.
+Both pages link to the GitHub repository and latest ZIP download.
+
+### Update the editorial board
+
+The homepage includes a searchable directory of **95 people**, preserving all
+**97 role listings** in the publisher text supplied by the maintainer on
+5 November 2026. The source is the journal's
+[ScienceDirect editorial board](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/editorial-board).
+Direct access returned HTTP 403, so the supplied text, rather than a successful
+automated fetch, is the basis for this directory.
+
+Edit **`_data/editorial_board.yml`** to update the directory. Each member has a
+name, optional credentials, roles, affiliation, research interests, and an
+optional verified profile link. Keep missing research interests as `[]`; the
+page explicitly says they are not listed. Currently four people have no listed
+research interests: Dietrich von Rosen, Tõnu Kollo, Albert Vexler, and Sylvia
+Frühwirth-Schnatter.
+
+Adelchi Azzalini and Christian Genest each appear under two roles in the source.
+They have one card each, retaining both role labels. Genest's Advisory Board
+entry retains the supplied `2015 - 2019` annotation without inferring a different
+role from that date range. Credentials are stored separately from names.
+
+The source transcription is saved in
+`_sources/editorial-board-2026-11-05.txt`, with its SHA-256 in the YAML metadata.
+It is excluded from the published site. Whitespace, empty comma-separated
+interest entries, and the invisible formatting mark were cleaned during import;
+research wording and affiliations were retained as supplied, including spelling
+and repeated terms. When refreshing the board, preserve the new source text and
+update the date, provenance, checksum, member count, role counts, and missing
+interest list in the YAML.
+
+Search matches names and research interests, ignoring accents, case, and
+punctuation. Every search word must match the beginning of a word in a name or
+research interest, and the optional role filter narrows
+the results further. The page initially shows 12 people, with a button to show
+more. All members remain readable when JavaScript is disabled. No search query
+is sent to a server, and there is no runtime request to ScienceDirect.
 
 ### Add an editorial message
 
@@ -63,7 +103,7 @@ points to a file alongside that section's `index.md`. Update the status and
 instructions when the deadline passes; there is no automatic deadline or status
 calculation.
 
-### Add a confirmed template
+### Add an approved template
 
 The JMVA LaTeX template is maintained in
 [its GitHub repository](https://github.com/jmva-home/JMVA-templates). The homepage
@@ -78,7 +118,7 @@ For additional approved files hosted on this website, upload them to
 ### [Template name]
 
 - **Version:** [Version number]
-- **Confirmed:** [Day Month Year] by [Editor or editorial office]
+- **Approved:** [Day Month Year] by [Editor or editorial office]
 - **Use for:** [Initial submissions, revisions, or another confirmed purpose]
 
 [Download LaTeX source](jmva-template-v1.zip) ·
@@ -119,12 +159,15 @@ server, run `bundle exec jekyll build`.
 
 | File | Purpose |
 | --- | --- |
-| `index.md` | Homepage overview and links to the sections |
+| `index.md` | Homepage overview and editorial board display setting |
 | `editorial-messages/` | Editorial messages in `index.md` |
 | `special-issues/` | Special issue calls in `index.md` and related call documents |
 | `templates/` | Template instructions in `index.md` and optional approved file uploads |
 | `_config.yml` | Journal name, description, site address, and publisher links |
 | `_layouts/default.html` | Masthead, navigation, author links, and footer |
+| `_includes/editorial-board.html` | Board directory and search controls |
+| `_data/editorial_board.yml` | Editable board data and source metadata |
+| `assets/js/editorial-board.js` | Local filtering, result counts, and show-more behaviour |
 | `assets/css/style.css` | Colours, typography, and responsive layout |
 
 The palette follows the publisher's

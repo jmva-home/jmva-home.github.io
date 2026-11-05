@@ -2,6 +2,7 @@
 layout: default
 title: Editorial companion
 permalink: /
+editorial_board: true
 last_updated: "2026-11-05"
 ---
 
@@ -22,9 +23,11 @@ contributing to confirmed special issues.
 
 ---
 
-## Editor-confirmed templates
+## Editor-approved templates
 
-Please use the **JMVA LaTeX template** when preparing your manuscript.
+The editors ask authors to use the **editor-approved JMVA LaTeX template**
+instead of Elsevier's standard template, so manuscripts follow JMVA's own
+formatting and style.
 
 - [Browse the template repository on GitHub](https://github.com/jmva-home/JMVA-templates)
 - [Download the latest template (ZIP)](https://github.com/jmva-home/JMVA-templates/archive/refs/heads/main.zip)

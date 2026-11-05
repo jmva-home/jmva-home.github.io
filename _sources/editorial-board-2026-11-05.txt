@@ -1,0 +1,479 @@
+Editor-in-Chief
+Dietrich von Rosen
+Linköping University, Linköping, Sweden
+
+View full biography
+Executive Editor
+Tõnu Kollo
+University of Tartu, Tartu, Estonia
+
+Associate Editors
+Germán Aneiros
+University of A Coruña, A Coruña, Spain
+
+Functional data analysis, Partial linear regression models, Variable selection
+
+Makoto Aoshima
+University of Tsukuba, Tsukuba, Japan
+
+Classification and discrimination methods,   High-dimensional data analysis,   Principal component analysis
+
+Adelchi Azzalini
+University of Padua, Padua, Italy
+
+Density-based non-parametric cluster analysis, Likelihood-based inference, Longitudinal data analysis, Multivariate distribution theory, Non-parametric estimation via smoothing methods
+
+François Bachoc
+University of Toulouse, Toulouse, France
+
+Gaussian processes, Parametric estimation, Spatial statistics
+
+Andriette Bekker
+University of Pretoria, Pretoria, South Africa
+
+Model- based clustering, Matrix-variate and multivariate distributions, Directional statistics
+
+Taras Bodnar
+Linköping University, Linköping, Sweden
+
+Bayesian statistics, Copula modeling, High-dimensional statistics, Multiple testing
+
+Shizhe Chen
+University of California Davis, Davis, California, United States of America (the)
+
+Point processes, Graphical models, High-dimensional statistics, Causal inference
+
+Elvira Di Nardo
+University of Turin, Turin, Italy
+
+Algebraic combinatorics in multivariate analysis, Computational probability, Statistics on diffusion processes
+
+Xiucai Ding
+University of California Davis, Davis, California, United States of America (the)
+
+Applied random matrix theory, High-dimensional statistics, Machine learning and deep learning theory, , Non-stationary time series analysis, Randomized algorithms Statistical learning theory
+
+Boualem Djehiche
+KTH Royal Institute of Technology, Stockholm, Sweden
+
+Interacting particle systems, Large deviations and concentration inequalities, Stochastic analysis
+
+Daniele Durante
+Bocconi University, Milan, Italy
+
+Bayesian methods, Categorical data analysis, Latent variable models, Network analysis
+
+Katarzyna Filipiak
+Poznan University of Technology, Poznań, Poland
+
+Estimation and testing covariance structures, Extended growth curve models, multi-level multivariate models
+
+Gery Geenens
+University of New South Wales, Sydney, New South Wales, Australia
+
+Copulas and dependence modelling, Nonparametric and semiparametric estimation of probability densities and regression functions, Statistical depth
+
+Christian Genest
+McGill University, Montreal, Quebec, Canada
+
+Dependence modeling, Extreme-value theory, Probability theory, Mathematical statistics, Multivariate analysis, Nonparametric inference
+
+Xu Guo
+Beijing Normal University, Beijing, China
+
+High-dimensional hypothesis testing, High-dimensional regression analysis, Nonlinear dependence
+
+Chengcheng Hao
+Shanghai University of International Business and Economics, Shanghai, China
+
+High-dimensional diagnostics, Robust statistics, Tensor data modelling
+
+Solomon Harrar
+University of Kentucky, Lexington, Kentucky, United States of America (the)
+
+Asymptotic theory,   High-dimensional data analysis,   Multivariate distribution theory,   Rank based methods
+
+Yong He
+Shandong University Zhongtai Securities Institute for Financial Studies, Jinan, China
+
+Factor Modelling/PCA, Robust statistics, Matrix/Tensor data analysis
+
+Thomas Holgersson
+Linnaeus University, Kalmar, Sweden
+
+Descriptive multivariate analysis,   High-dimensional data analysis,   Regularization methods,   Multivariate autokorrelation
+
+Lajos Horvath
+The University of Utah, Salt Lake City, Utah, United States of America (the)
+
+Change points, Functional data, Time series, functional data, change points, time series
+
+Jiang Hu
+Northeast Normal University, Changchun, Jilin, China
+
+Random Matrix Theory, High-Dimensional Statistics
+
+Jianhua Hu
+Shanghai University of Finance and Economics, Shanghai, China
+
+Compositional data analysis,   High-dimensional data analysis,   Sparse statistical modelling,   Spatial statistics
+
+Jianhua Huang
+The Chinese University of Hong Kong - Shenzhen, Shenzhen, Guangdong, China
+
+Functional data analysis, Graphical models, High-dimensional data analysis, Nonparametric function estimation, Sparse statistical modelling, Spatial statistics
+
+Masashi Hyodo
+Kanagawa University, Faculty of Economics Graduate School of Economics, Yokohama, Japan
+
+Multivariate Analysis, Asymptotic Theory, Mathematical Statistics
+
+Harry Joe
+The University of British Columbia, Vancouver, British Columbia, Canada
+
+Composite likelihood,   Copulas,   Dependence measures,   Extreme value inference,   Latent variable models,   Multivariate random effects models.
+
+John Kent
+University of Leeds, Leeds, United Kingdom
+
+Directional statistics,   Shape analysis
+
+Yuriy Kharin
+Belarusian State University, Minsk, Belarus
+
+Classification and discrimination methods,   Robust multivariate methods
+
+Bernhard Klar
+Karlsruhe Institute of Technology, Karlsruhe, Germany
+
+Classification and discrimination methods,   Copulas,   Multivariate distribution theory
+
+Ivan Kojadinovic
+University of Pau and Pays de l'Adour, Pau, France
+
+Copulas, Change-point detection, Empirical processes, Environmental and financial applications, Non-parametric multivariate analysis, Resampling techniques
+
+Piotr Kokoszka
+Colorado State University, Fort Collins, Colorado, United States of America (the)
+
+Extreme value inference,   Functional data analysis,   Spatial statistics
+
+Xiaoli Kong
+Wayne State University, Detroit, Michigan, United States of America (the)
+
+High-dimensional data analysis, Rank-based methods, Nonparametric regression models
+
+Pavel Krupskiy
+The University of Melbourne, Melbourne, Victoria, Australia
+
+Copulas, Multivariate extremes, Tail dependence
+
+Can Le
+University of California Davis, Davis, California, United States of America (the)
+
+Network Analysis, Spectral Methods, Multi-view Learning
+
+Feng Li
+Peking University, Beijing, China
+
+Forecasting, Bayesian Statistics, Econometrics, Distributed Learning, Deep Learning, Multimodal Learning, Multivariate Analysis, Time Series
+
+Runze Li
+The Pennsylvania State University, University Park, Pennsylvania, United States of America (the)
+
+Feature screening methods,   High-dimensional data analysis,   Longitudinal data analysis
+
+Xiaodong Li
+University of California Davis, Davis, California, United States of America (the)
+
+High-dimensional Statistics, Machine Learning, Multivariate Statistics, Network Analysis, Optimization, ,
+
+Yehua Li
+University of California Riverside, Riverside, California, United States of America (the)
+
+Functional data analysis,   High-dimensional data analysis,   Longitudinal data analysis, Spatial-temporal statistics
+
+Zeng Li
+Southern University of Science and Technology, Shenzhen, China
+
+Random matrix theory, High-dimensional statistics, Hypothesis testing, machine learning
+
+Heng Lian
+City University of Hong Kong, Department of Mathematics, Hong Kong, Hong Kong
+
+Functional data analysis, High-dimensional statistics, Statistical machine learning
+
+Bin Liu
+Fudan University School of Management, Shanghai, China
+
+Change-point detection, High dimensional data analysis, Graphical models
+
+Shuangzhe Liu
+University of Canberra, Canberra, Australia
+
+Multivariate distributions, Multivariate linear models and GLM, Statistical diagnostics
+
+Yufeng Liu
+The University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States of America (the)
+
+Classification and discrimantion methods,   Clustering methods,   Graphical models,   High-dimensional data analysis,   Individualized decision rules,   Sparse statistical modelling
+
+Éric Marchand
+University of Sherbrooke, Sherbrooke, Quebec, Canada
+
+Bayesian methods,   Estimation with constraints,   Multivariate distribution theory,   Parametric inference,   Stein estimation
+
+Nirian Martin
+Complutense University of Madrid, Madrid, Spain
+
+Categorical data analysis,   Order restricted statistical inference,   Robust statistics
+
+Thomas Mathew
+University of Maryland Baltimore, Baltimore, Maryland, United States of America (the)
+
+General multivariate statistical analysis,   Mixed and random effects models
+
+Alexander Meister
+University of Rostock, Rostock, Germany
+
+Functional data analysis, Le Cam theory of statistical experiments, Non-parametric curve estimation, Statistical inverse problems
+
+Johanna G. Nešlehová
+McGill University, Montreal, Quebec, Canada
+
+Copula modeling, Extreme-value theory, Multivariate distributions, Rank-based inference
+
+Natalie Neumeyer
+University of Hamburg, Hamburg, Germany
+
+Multivariate bootstrap methods,  Non-parametric multivariate analysis,  Semi-parametric multivariate analysis
+
+Sévérien Nkurunziza
+University of Windsor, Windsor, Ontario, Canada
+
+Change point analysis, High-dimensional data analysis, Shrinkage estimators
+
+Klaus Nordhausen
+University of Helsinki, Department of Mathematics and Statistics, Helsinki, Finland
+
+Blind source separation methods,   Dimension reduction,   Robust multivariate methods
+
+Haruhiko Ogasawara
+Otaru University of Commerce, Otaru, Japan
+
+Asymptotic theory,   Factor analysis,   Multivariate skewness and kurtosis measures,   Principal component analysis
+
+Ostap Okhrin
+Dresden University of Technology, Dresden, Germany
+
+Copulas, Estimation Theory, Machine Learning
+
+Frédéric Ouimet
+University of Quebec at Trois-Rivieres, Trois-Rivières, Quebec, Canada
+
+Nonparametric estimation, Multivariate analysis, Probability, Berntein estimators, Asymmetric kernels, Wishart distribution, Kernel density estimation
+
+Jianxin Pan
+Beijing Normal-Hong Kong Baptist University, Zhuhai, China
+
+Classification and discrimination methods, High-dimensional data analysis, Multivariate distributions, Network analysis, Patterned covariance matrix analysis
+
+Leandro Pardo
+Complutense University of Madrid, Madrid, Spain
+
+Analysis of multi-way tables,   Asymptotic theory,   Minimum distance estimators,   Robust multivariate methods
+
+Junyong Park
+Seoul National University, Gwanak-gu, Korea, Republic of
+
+ Classification and discrimination methods, Clustering methods, Hypotheses testing in high dimensions, Multiple comparisons
+
+Krzysztof Podgórski
+Lund University, Lund, Sweden
+
+High-dimensional and functional data analysis, non-Gaussian multivariate methods, random matrices
+
+Wolfgang Polonik
+University of California Davis, Davis, California, United States of America (the)
+
+Network Analysis, Non-parametric multivariate analysis, Shape constrained inference, Topological data analysis
+
+Bruno Rémillard
+HEC Montréal, Montréal, Canada
+
+Dependence modelling, Empirical processes, Multivariate time series.
+
+Anne Ruiz-Gazen
+Toulouse School of Economics, Toulouse, France
+
+Computational statistics,   Covariance estimation,   Outlier detection,   Robust statistics,   Survey sampling
+
+Wolfgang Schmid
+European University Viadrina Frankfurt Oder, Frankfurt an der Oder, Frankfurt (Oder), Germany
+
+Environmental and financial applications,   High-dimensional data analysis,   Sequential statistic,   Spatio-temporal analysis
+
+Takashi Seo
+Tokyo University of Science, Shinjuku City, Japan
+
+Asymptotic theory,   Missing data analysis,   Multivariate distribution theory
+
+Peter X.K. Song
+University of Michigan, Ann Arbor, Michigan, United States of America (the)
+
+Dependence modeling,  Estimating functions,  High-dimensional data analysis,  Longitudinal data analysis,  Meta analysis
+
+Akimichi Takemura
+Shiga University, Hikone, Japan
+
+Algebraic methods in multivariate analysis,   Decision theory,   Multivariate distribution theory
+
+Thomas Verdebout
+University of Brussels - ULB, Brussels, Belgium
+
+Directional Statistics, High-dimensional testing, Rank-based inference, Semiparametric inference, Sign-based methods
+
+Albert Vexler
+University at Buffalo, Buffalo, New York, United States of America (the)
+
+Marlos Viana
+University of Illinois Chicago, Chicago, Illinois, United States of America (the)
+
+Combined multivariate analysis,   Complex multivariate analysis,   Symmetry analysis of multivariate data.
+
+Philippe Vieu
+University of Toulouse, Toulouse, France
+
+Functional data analysis,   Non-parametric multivariate analysis,   Semi-parametric multivariate analysis,   Sparse statistical modelling
+
+Joni Virta
+University of Turku, Turku, Finland
+
+Matrix-valued data, Robust statistics, Unsupervised dimension reduction﻿
+
+Julia Volaufova
+LSU Health New Orleans Human Development Center, New Orleans, Louisiana, United States of America (the)
+
+Longitudinal data analysis,   Mixed and random effects models,   Multivariate linear models
+
+Simon Wood
+The University of Edinburgh, Edinburgh, United Kingdom
+
+Regression, Splines, Statistical computing
+
+Yuying Xie
+Michigan State University, Department of Statistics and Probability, East Lansing, Michigan, United States of America (the)
+
+High-dimensional statistics, Neural Network analysis, Dimension reduction
+
+Kai Xu
+Anhui Normal University, Wuhu, Anhui, China
+
+Dependence measure, High-dimensional statistic, Rank-based inference
+
+Jianfeng Yao
+The Chinese University of Hong Kong Shenzhen School of Data Science, Shenzhen, China
+
+High-dimensional data analysis, Large sample covariance matrices, Random matrix theory
+
+Kazuyoshi Yata
+University of Tsukuba, Tsukuba, Japan
+
+Classification and discrimination methods for high-dimensional data, High-dimensional asymptotic theory, High-dimensional hypothesis testing, High-dimensional principal component analysis and its applications, Statistical inference for high dimensional covariance matrix
+
+Long Yu
+Shanghai University of Finance and Economics, Shanghai, China
+
+factor model, large random matrix
+
+Xianyang Zhang
+Texas A&M University System, College Station, Texas, United States of America (the)
+
+High dimensional data analysis,   Mutlivariate time series analysis
+
+Shurong Zheng
+Northeast Normal University, Changchun, Jilin, China
+
+High-dimensional correlation matrix, Random matrix theory, Testing high-dimensional covariance matrix
+
+Wen Zhou
+Colorado State University, Department of Statistics and Colorado School of Public Health, Department of Biostatistics and Informatics, New York, New York, United States of America (the)
+
+Graphical and network modeling, High dimensional statistics, Time series
+
+Zhou Zhou
+Zhejiang University Center for Data Science, Hangzhou, China
+
+Nonparametric statistics, Tme series, Change point analysis
+
+Liping Zhu
+Renmin University of China, Beijing, China
+
+Dependence measures,   Dimension reduction,   Feature screening
+
+Konstantinos Zografos
+University of Ioannina, Ioannina, Greece
+
+Classification and discrimination methods,  Copulas, Dependence measures,  Discrete multivariate methods,  Multivariate distribution theory,  Statistical distances
+
+Advisory Board
+Adelchi Azzalini
+University of Padua, Padua, Italy
+
+Sylvia Frühwirth-Schnatter
+Vienna University of Economics and Business, Vienna, Austria
+
+Christian Genest, (2015 - 2019)
+McGill University, Montreal, Quebec, Canada
+
+Early Career Advisory Board
+
+Faten Ezzine, PhD
+University of Sfax, Sfax, Tunisia
+
+Stochastic differential equations, Stochastic singular systems, Stability, Differential equations, Geometric Brownian motion
+
+Aki Ishii
+Tokyo University of Science, Shinjuku City, Japan
+
+Discriminant analysis, High-dimensional statistics
+
+Joonpyo Kim, Ph.D.
+Sejong University, Gwangjin District, Korea, Republic of
+
+Spatio-temporal data analysis, Functional data analysis, Extreme value analysis, Change point analysis
+
+Mihyun Kim, PhD
+West Virginia University, Morgantown, West Virginia, United States of America (the)
+
+Functional data analysis, Extreme value analysis
+
+Jie Li, PhD
+Renmin University of China, Beijing, China
+
+Function data analysis and its applications, Spatio-temporal analysis, Times series analysis, Non-/Semi-parametric regression, Causal inference
+
+Hoyoung Park, PhD
+Sookmyung Women's University, Yongsan District, Korea, Republic of
+
+Asymptotic Theory, Classification and Clustering methods, Empirical Bayes, High-dimensional hypothesis testing, Nonparametric Method
+
+Seongoh Park, PhD
+Sungshin Women's University, Seongbuk District, Korea, Republic of
+
+Covariance/precision matrix estimation, undirected Graphical models, Matrix-variate data analysis
+
+Mengxi Yi, PhD
+Beijing Normal University, Beijing, China
+
+Multivariate Analysis, Robust Statistics, Spatial Statistics, Multiple TestingProblem, Random Matrix, Multiple Testing Problem
+
+Zhiyang Zhou, PhD
+University of Wisconsin-Milwaukee, Milwaukee, Wisconsin, United States of America (the)
+
+Functional/longitudinal data analysis, Deep learning/neural network
+
+Tingting Zou, PhD
+Jilin University, Changchun, China
+
+Large-dimensional random matrix theory, High-dimensional statistical inference

@@ -6,5 +6,6 @@
 /vendor/
 /JMVA-templates/
 
-# Jekyll layouts are source files, even when a global rule ignores HTML.
+# Jekyll layouts and includes are source files, even if HTML is ignored globally.
 !/_layouts/*.html
+!/_includes/*.html

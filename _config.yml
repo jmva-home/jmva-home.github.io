@@ -1,5 +1,5 @@
 title: Journal of Multivariate Analysis
-description: Editorial messages, special issue calls, and editor-confirmed templates for the JMVA community.
+description: Editorial messages, special issue calls, editor-approved templates, and a searchable editorial board for the JMVA community.
 url: https://jmva-home.github.io
 baseurl: ""
 lang: en
@@ -15,3 +15,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _sources

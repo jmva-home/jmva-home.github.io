@@ -1,0 +1,58 @@
+{% assign board = site.data.editorial_board %}
+<section class="editorial-board" id="editorial-board" aria-labelledby="editorial-board-heading" data-editorial-board>
+  <div class="board-heading">
+    <div>
+      <p class="eyebrow">People and expertise</p>
+      <h2 id="editorial-board-heading">Editorial board</h2>
+      <p>Find a board member by name or research interest, or browse by editorial role.</p>
+    </div>
+    <p class="board-source">
+      <a href="{{ board.source_url | escape }}">Publisher's editorial board <span aria-hidden="true">↗</span></a>
+      <span>Directory updated <time datetime="{{ board.updated }}">{{ board.updated | date: '%-d %B %Y' }}</time></span>
+    </p>
+  </div>
+
+  <form class="board-controls" role="search" aria-label="Search editorial board" data-board-controls hidden>
+    <div class="board-search">
+      <label for="board-search">Name or research interest</label>
+      <input id="board-search" type="search" name="q" placeholder="e.g. Feng Li, copulas, functional data" autocomplete="off" aria-controls="board-members" aria-describedby="board-search-help" data-board-search>
+    </div>
+    <div>
+      <label for="board-role">Editorial role</label>
+      <select id="board-role" name="role" aria-controls="board-members" data-board-role>
+        <option value="">All roles</option>
+        {% for role in board.role_counts %}
+        <option value="{{ role[0] | escape }}">{{ role[0] | escape }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <button class="board-clear" type="reset" data-board-clear>Clear filters</button>
+  </form>
+  <p class="board-help" id="board-search-help">Search ignores accents and capitalisation. All search words must match the beginning of a word in a name or listed research interests.</p>
+  <noscript><p class="board-help">All members are listed below. Enable JavaScript to use the search filters.</p></noscript>
+
+  <p class="board-count" id="board-count" role="status" aria-live="polite" aria-atomic="true" data-board-count>{{ board.members.size }} board members</p>
+  <ul class="board-list" id="board-members">
+    {% for member in board.members %}
+    <li class="board-card" data-board-member data-name="{{ member.name | escape }}" data-interests="{{ member.interests | join: ' ' | escape }}" data-roles="{{ member.roles | join: '|' | escape }}">
+      <div class="board-roles">
+        {% for role in member.roles %}
+        <span class="board-role">{{ role | escape }}{% if member.role_notes[role] %} ({{ member.role_notes[role] | escape }}){% endif %}</span>
+        {% endfor %}
+      </div>
+      <h3>{% if member.profile_url != '' %}<a href="{{ member.profile_url | escape }}">{{ member.name | escape }}</a>{% else %}{{ member.name | escape }}{% endif %}{% if member.credentials != '' %}<span class="board-credentials">, {{ member.credentials | escape }}</span>{% endif %}</h3>
+      <p class="board-affiliation">{{ member.affiliation | escape }}</p>
+      <p class="board-interest-label">Research interests</p>
+      {% if member.interests.size > 0 %}
+      <p class="board-interests">{{ member.interests | join: '; ' | escape }}</p>
+      {% else %}
+      <p class="board-interests board-unlisted">Not listed on the publisher's page.</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  <p class="board-empty" data-board-empty hidden>No board members match these filters. Try another name or research interest, or choose a different role.</p>
+  <div class="board-more">
+    <button type="button" aria-controls="board-members" data-board-more hidden>Show more members</button>
+  </div>
+</section>

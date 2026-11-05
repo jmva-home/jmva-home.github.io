@@ -1,0 +1,1125 @@
+source_url: https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/editorial-board
+updated: '2026-11-05'
+provenance: Publisher page text pasted by the site maintainer; direct ScienceDirect access returned HTTP
+  403.
+source_snapshot: _sources/editorial-board-2026-11-05.txt
+source_sha256: ece1ba555cd1ab27c0227cb3c3c0d299e15aa5ae093c1d9aadbfb51815d513f4
+source_entry_count: 97
+member_count: 95
+role_counts:
+  Editor-in-Chief: 1
+  Executive Editor: 1
+  Associate Editor: 82
+  Advisory Board: 3
+  Early Career Advisory Board: 10
+members_without_interests:
+- Dietrich von Rosen
+- Tõnu Kollo
+- Albert Vexler
+- Sylvia Frühwirth-Schnatter
+members:
+- name: Dietrich von Rosen
+  credentials: ''
+  roles:
+  - Editor-in-Chief
+  role_notes: {}
+  affiliation: Linköping University, Linköping, Sweden
+  interests: []
+  profile_url: https://liu.se/en/employee/dievo64
+- name: Tõnu Kollo
+  credentials: ''
+  roles:
+  - Executive Editor
+  role_notes: {}
+  affiliation: University of Tartu, Tartu, Estonia
+  interests: []
+  profile_url: ''
+- name: Germán Aneiros
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of A Coruña, A Coruña, Spain
+  interests:
+  - Functional data analysis
+  - Partial linear regression models
+  - Variable selection
+  profile_url: ''
+- name: Makoto Aoshima
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Tsukuba, Tsukuba, Japan
+  interests:
+  - Classification and discrimination methods
+  - High-dimensional data analysis
+  - Principal component analysis
+  profile_url: ''
+- name: Adelchi Azzalini
+  credentials: ''
+  roles:
+  - Associate Editor
+  - Advisory Board
+  role_notes: {}
+  affiliation: University of Padua, Padua, Italy
+  interests:
+  - Density-based non-parametric cluster analysis
+  - Likelihood-based inference
+  - Longitudinal data analysis
+  - Multivariate distribution theory
+  - Non-parametric estimation via smoothing methods
+  profile_url: ''
+- name: François Bachoc
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Toulouse, Toulouse, France
+  interests:
+  - Gaussian processes
+  - Parametric estimation
+  - Spatial statistics
+  profile_url: ''
+- name: Andriette Bekker
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Pretoria, Pretoria, South Africa
+  interests:
+  - Model- based clustering
+  - Matrix-variate and multivariate distributions
+  - Directional statistics
+  profile_url: ''
+- name: Taras Bodnar
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Linköping University, Linköping, Sweden
+  interests:
+  - Bayesian statistics
+  - Copula modeling
+  - High-dimensional statistics
+  - Multiple testing
+  profile_url: ''
+- name: Shizhe Chen
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of California Davis, Davis, California, United States of America (the)
+  interests:
+  - Point processes
+  - Graphical models
+  - High-dimensional statistics
+  - Causal inference
+  profile_url: ''
+- name: Elvira Di Nardo
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Turin, Turin, Italy
+  interests:
+  - Algebraic combinatorics in multivariate analysis
+  - Computational probability
+  - Statistics on diffusion processes
+  profile_url: ''
+- name: Xiucai Ding
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of California Davis, Davis, California, United States of America (the)
+  interests:
+  - Applied random matrix theory
+  - High-dimensional statistics
+  - Machine learning and deep learning theory
+  - Non-stationary time series analysis
+  - Randomized algorithms Statistical learning theory
+  profile_url: ''
+- name: Boualem Djehiche
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: KTH Royal Institute of Technology, Stockholm, Sweden
+  interests:
+  - Interacting particle systems
+  - Large deviations and concentration inequalities
+  - Stochastic analysis
+  profile_url: ''
+- name: Daniele Durante
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Bocconi University, Milan, Italy
+  interests:
+  - Bayesian methods
+  - Categorical data analysis
+  - Latent variable models
+  - Network analysis
+  profile_url: ''
+- name: Katarzyna Filipiak
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Poznan University of Technology, Poznań, Poland
+  interests:
+  - Estimation and testing covariance structures
+  - Extended growth curve models
+  - multi-level multivariate models
+  profile_url: ''
+- name: Gery Geenens
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of New South Wales, Sydney, New South Wales, Australia
+  interests:
+  - Copulas and dependence modelling
+  - Nonparametric and semiparametric estimation of probability densities and regression functions
+  - Statistical depth
+  profile_url: ''
+- name: Christian Genest
+  credentials: ''
+  roles:
+  - Associate Editor
+  - Advisory Board
+  role_notes:
+    Advisory Board: 2015 - 2019
+  affiliation: McGill University, Montreal, Quebec, Canada
+  interests:
+  - Dependence modeling
+  - Extreme-value theory
+  - Probability theory
+  - Mathematical statistics
+  - Multivariate analysis
+  - Nonparametric inference
+  profile_url: ''
+- name: Xu Guo
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Beijing Normal University, Beijing, China
+  interests:
+  - High-dimensional hypothesis testing
+  - High-dimensional regression analysis
+  - Nonlinear dependence
+  profile_url: ''
+- name: Chengcheng Hao
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Shanghai University of International Business and Economics, Shanghai, China
+  interests:
+  - High-dimensional diagnostics
+  - Robust statistics
+  - Tensor data modelling
+  profile_url: ''
+- name: Solomon Harrar
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Kentucky, Lexington, Kentucky, United States of America (the)
+  interests:
+  - Asymptotic theory
+  - High-dimensional data analysis
+  - Multivariate distribution theory
+  - Rank based methods
+  profile_url: ''
+- name: Yong He
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Shandong University Zhongtai Securities Institute for Financial Studies, Jinan, China
+  interests:
+  - Factor Modelling/PCA
+  - Robust statistics
+  - Matrix/Tensor data analysis
+  profile_url: ''
+- name: Thomas Holgersson
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Linnaeus University, Kalmar, Sweden
+  interests:
+  - Descriptive multivariate analysis
+  - High-dimensional data analysis
+  - Regularization methods
+  - Multivariate autokorrelation
+  profile_url: ''
+- name: Lajos Horvath
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The University of Utah, Salt Lake City, Utah, United States of America (the)
+  interests:
+  - Change points
+  - Functional data
+  - Time series
+  - functional data
+  - change points
+  - time series
+  profile_url: ''
+- name: Jiang Hu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Northeast Normal University, Changchun, Jilin, China
+  interests:
+  - Random Matrix Theory
+  - High-Dimensional Statistics
+  profile_url: ''
+- name: Jianhua Hu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Shanghai University of Finance and Economics, Shanghai, China
+  interests:
+  - Compositional data analysis
+  - High-dimensional data analysis
+  - Sparse statistical modelling
+  - Spatial statistics
+  profile_url: ''
+- name: Jianhua Huang
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The Chinese University of Hong Kong - Shenzhen, Shenzhen, Guangdong, China
+  interests:
+  - Functional data analysis
+  - Graphical models
+  - High-dimensional data analysis
+  - Nonparametric function estimation
+  - Sparse statistical modelling
+  - Spatial statistics
+  profile_url: ''
+- name: Masashi Hyodo
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Kanagawa University, Faculty of Economics Graduate School of Economics, Yokohama, Japan
+  interests:
+  - Multivariate Analysis
+  - Asymptotic Theory
+  - Mathematical Statistics
+  profile_url: ''
+- name: Harry Joe
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The University of British Columbia, Vancouver, British Columbia, Canada
+  interests:
+  - Composite likelihood
+  - Copulas
+  - Dependence measures
+  - Extreme value inference
+  - Latent variable models
+  - Multivariate random effects models.
+  profile_url: ''
+- name: John Kent
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Leeds, Leeds, United Kingdom
+  interests:
+  - Directional statistics
+  - Shape analysis
+  profile_url: ''
+- name: Yuriy Kharin
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Belarusian State University, Minsk, Belarus
+  interests:
+  - Classification and discrimination methods
+  - Robust multivariate methods
+  profile_url: ''
+- name: Bernhard Klar
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Karlsruhe Institute of Technology, Karlsruhe, Germany
+  interests:
+  - Classification and discrimination methods
+  - Copulas
+  - Multivariate distribution theory
+  profile_url: ''
+- name: Ivan Kojadinovic
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Pau and Pays de l'Adour, Pau, France
+  interests:
+  - Copulas
+  - Change-point detection
+  - Empirical processes
+  - Environmental and financial applications
+  - Non-parametric multivariate analysis
+  - Resampling techniques
+  profile_url: ''
+- name: Piotr Kokoszka
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Colorado State University, Fort Collins, Colorado, United States of America (the)
+  interests:
+  - Extreme value inference
+  - Functional data analysis
+  - Spatial statistics
+  profile_url: ''
+- name: Xiaoli Kong
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Wayne State University, Detroit, Michigan, United States of America (the)
+  interests:
+  - High-dimensional data analysis
+  - Rank-based methods
+  - Nonparametric regression models
+  profile_url: ''
+- name: Pavel Krupskiy
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The University of Melbourne, Melbourne, Victoria, Australia
+  interests:
+  - Copulas
+  - Multivariate extremes
+  - Tail dependence
+  profile_url: ''
+- name: Can Le
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of California Davis, Davis, California, United States of America (the)
+  interests:
+  - Network Analysis
+  - Spectral Methods
+  - Multi-view Learning
+  profile_url: ''
+- name: Feng Li
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Peking University, Beijing, China
+  interests:
+  - Forecasting
+  - Bayesian Statistics
+  - Econometrics
+  - Distributed Learning
+  - Deep Learning
+  - Multimodal Learning
+  - Multivariate Analysis
+  - Time Series
+  profile_url: https://feng.li/
+- name: Runze Li
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The Pennsylvania State University, University Park, Pennsylvania, United States of America
+    (the)
+  interests:
+  - Feature screening methods
+  - High-dimensional data analysis
+  - Longitudinal data analysis
+  profile_url: ''
+- name: Xiaodong Li
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of California Davis, Davis, California, United States of America (the)
+  interests:
+  - High-dimensional Statistics
+  - Machine Learning
+  - Multivariate Statistics
+  - Network Analysis
+  - Optimization
+  profile_url: ''
+- name: Yehua Li
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of California Riverside, Riverside, California, United States of America (the)
+  interests:
+  - Functional data analysis
+  - High-dimensional data analysis
+  - Longitudinal data analysis
+  - Spatial-temporal statistics
+  profile_url: ''
+- name: Zeng Li
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Southern University of Science and Technology, Shenzhen, China
+  interests:
+  - Random matrix theory
+  - High-dimensional statistics
+  - Hypothesis testing
+  - machine learning
+  profile_url: ''
+- name: Heng Lian
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: City University of Hong Kong, Department of Mathematics, Hong Kong, Hong Kong
+  interests:
+  - Functional data analysis
+  - High-dimensional statistics
+  - Statistical machine learning
+  profile_url: ''
+- name: Bin Liu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Fudan University School of Management, Shanghai, China
+  interests:
+  - Change-point detection
+  - High dimensional data analysis
+  - Graphical models
+  profile_url: ''
+- name: Shuangzhe Liu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Canberra, Canberra, Australia
+  interests:
+  - Multivariate distributions
+  - Multivariate linear models and GLM
+  - Statistical diagnostics
+  profile_url: ''
+- name: Yufeng Liu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, United States
+    of America (the)
+  interests:
+  - Classification and discrimantion methods
+  - Clustering methods
+  - Graphical models
+  - High-dimensional data analysis
+  - Individualized decision rules
+  - Sparse statistical modelling
+  profile_url: ''
+- name: Éric Marchand
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Sherbrooke, Sherbrooke, Quebec, Canada
+  interests:
+  - Bayesian methods
+  - Estimation with constraints
+  - Multivariate distribution theory
+  - Parametric inference
+  - Stein estimation
+  profile_url: ''
+- name: Nirian Martin
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Complutense University of Madrid, Madrid, Spain
+  interests:
+  - Categorical data analysis
+  - Order restricted statistical inference
+  - Robust statistics
+  profile_url: ''
+- name: Thomas Mathew
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Maryland Baltimore, Baltimore, Maryland, United States of America (the)
+  interests:
+  - General multivariate statistical analysis
+  - Mixed and random effects models
+  profile_url: ''
+- name: Alexander Meister
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Rostock, Rostock, Germany
+  interests:
+  - Functional data analysis
+  - Le Cam theory of statistical experiments
+  - Non-parametric curve estimation
+  - Statistical inverse problems
+  profile_url: ''
+- name: Johanna G. Nešlehová
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: McGill University, Montreal, Quebec, Canada
+  interests:
+  - Copula modeling
+  - Extreme-value theory
+  - Multivariate distributions
+  - Rank-based inference
+  profile_url: ''
+- name: Natalie Neumeyer
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Hamburg, Hamburg, Germany
+  interests:
+  - Multivariate bootstrap methods
+  - Non-parametric multivariate analysis
+  - Semi-parametric multivariate analysis
+  profile_url: ''
+- name: Sévérien Nkurunziza
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Windsor, Windsor, Ontario, Canada
+  interests:
+  - Change point analysis
+  - High-dimensional data analysis
+  - Shrinkage estimators
+  profile_url: ''
+- name: Klaus Nordhausen
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Helsinki, Department of Mathematics and Statistics, Helsinki, Finland
+  interests:
+  - Blind source separation methods
+  - Dimension reduction
+  - Robust multivariate methods
+  profile_url: ''
+- name: Haruhiko Ogasawara
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Otaru University of Commerce, Otaru, Japan
+  interests:
+  - Asymptotic theory
+  - Factor analysis
+  - Multivariate skewness and kurtosis measures
+  - Principal component analysis
+  profile_url: ''
+- name: Ostap Okhrin
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Dresden University of Technology, Dresden, Germany
+  interests:
+  - Copulas
+  - Estimation Theory
+  - Machine Learning
+  profile_url: ''
+- name: Frédéric Ouimet
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Quebec at Trois-Rivieres, Trois-Rivières, Quebec, Canada
+  interests:
+  - Nonparametric estimation
+  - Multivariate analysis
+  - Probability
+  - Berntein estimators
+  - Asymmetric kernels
+  - Wishart distribution
+  - Kernel density estimation
+  profile_url: ''
+- name: Jianxin Pan
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Beijing Normal-Hong Kong Baptist University, Zhuhai, China
+  interests:
+  - Classification and discrimination methods
+  - High-dimensional data analysis
+  - Multivariate distributions
+  - Network analysis
+  - Patterned covariance matrix analysis
+  profile_url: ''
+- name: Leandro Pardo
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Complutense University of Madrid, Madrid, Spain
+  interests:
+  - Analysis of multi-way tables
+  - Asymptotic theory
+  - Minimum distance estimators
+  - Robust multivariate methods
+  profile_url: ''
+- name: Junyong Park
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Seoul National University, Gwanak-gu, Korea, Republic of
+  interests:
+  - Classification and discrimination methods
+  - Clustering methods
+  - Hypotheses testing in high dimensions
+  - Multiple comparisons
+  profile_url: ''
+- name: Krzysztof Podgórski
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Lund University, Lund, Sweden
+  interests:
+  - High-dimensional and functional data analysis
+  - non-Gaussian multivariate methods
+  - random matrices
+  profile_url: ''
+- name: Wolfgang Polonik
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of California Davis, Davis, California, United States of America (the)
+  interests:
+  - Network Analysis
+  - Non-parametric multivariate analysis
+  - Shape constrained inference
+  - Topological data analysis
+  profile_url: ''
+- name: Bruno Rémillard
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: HEC Montréal, Montréal, Canada
+  interests:
+  - Dependence modelling
+  - Empirical processes
+  - Multivariate time series.
+  profile_url: ''
+- name: Anne Ruiz-Gazen
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Toulouse School of Economics, Toulouse, France
+  interests:
+  - Computational statistics
+  - Covariance estimation
+  - Outlier detection
+  - Robust statistics
+  - Survey sampling
+  profile_url: ''
+- name: Wolfgang Schmid
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: European University Viadrina Frankfurt Oder, Frankfurt an der Oder, Frankfurt (Oder), Germany
+  interests:
+  - Environmental and financial applications
+  - High-dimensional data analysis
+  - Sequential statistic
+  - Spatio-temporal analysis
+  profile_url: ''
+- name: Takashi Seo
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Tokyo University of Science, Shinjuku City, Japan
+  interests:
+  - Asymptotic theory
+  - Missing data analysis
+  - Multivariate distribution theory
+  profile_url: ''
+- name: Peter X.K. Song
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Michigan, Ann Arbor, Michigan, United States of America (the)
+  interests:
+  - Dependence modeling
+  - Estimating functions
+  - High-dimensional data analysis
+  - Longitudinal data analysis
+  - Meta analysis
+  profile_url: ''
+- name: Akimichi Takemura
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Shiga University, Hikone, Japan
+  interests:
+  - Algebraic methods in multivariate analysis
+  - Decision theory
+  - Multivariate distribution theory
+  profile_url: ''
+- name: Thomas Verdebout
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Brussels - ULB, Brussels, Belgium
+  interests:
+  - Directional Statistics
+  - High-dimensional testing
+  - Rank-based inference
+  - Semiparametric inference
+  - Sign-based methods
+  profile_url: ''
+- name: Albert Vexler
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University at Buffalo, Buffalo, New York, United States of America (the)
+  interests: []
+  profile_url: ''
+- name: Marlos Viana
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Illinois Chicago, Chicago, Illinois, United States of America (the)
+  interests:
+  - Combined multivariate analysis
+  - Complex multivariate analysis
+  - Symmetry analysis of multivariate data.
+  profile_url: ''
+- name: Philippe Vieu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Toulouse, Toulouse, France
+  interests:
+  - Functional data analysis
+  - Non-parametric multivariate analysis
+  - Semi-parametric multivariate analysis
+  - Sparse statistical modelling
+  profile_url: ''
+- name: Joni Virta
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Turku, Turku, Finland
+  interests:
+  - Matrix-valued data
+  - Robust statistics
+  - Unsupervised dimension reduction
+  profile_url: ''
+- name: Julia Volaufova
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: LSU Health New Orleans Human Development Center, New Orleans, Louisiana, United States
+    of America (the)
+  interests:
+  - Longitudinal data analysis
+  - Mixed and random effects models
+  - Multivariate linear models
+  profile_url: ''
+- name: Simon Wood
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The University of Edinburgh, Edinburgh, United Kingdom
+  interests:
+  - Regression
+  - Splines
+  - Statistical computing
+  profile_url: ''
+- name: Yuying Xie
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Michigan State University, Department of Statistics and Probability, East Lansing, Michigan,
+    United States of America (the)
+  interests:
+  - High-dimensional statistics
+  - Neural Network analysis
+  - Dimension reduction
+  profile_url: ''
+- name: Kai Xu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Anhui Normal University, Wuhu, Anhui, China
+  interests:
+  - Dependence measure
+  - High-dimensional statistic
+  - Rank-based inference
+  profile_url: ''
+- name: Jianfeng Yao
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: The Chinese University of Hong Kong Shenzhen School of Data Science, Shenzhen, China
+  interests:
+  - High-dimensional data analysis
+  - Large sample covariance matrices
+  - Random matrix theory
+  profile_url: ''
+- name: Kazuyoshi Yata
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Tsukuba, Tsukuba, Japan
+  interests:
+  - Classification and discrimination methods for high-dimensional data
+  - High-dimensional asymptotic theory
+  - High-dimensional hypothesis testing
+  - High-dimensional principal component analysis and its applications
+  - Statistical inference for high dimensional covariance matrix
+  profile_url: ''
+- name: Long Yu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Shanghai University of Finance and Economics, Shanghai, China
+  interests:
+  - factor model
+  - large random matrix
+  profile_url: ''
+- name: Xianyang Zhang
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Texas A&M University System, College Station, Texas, United States of America (the)
+  interests:
+  - High dimensional data analysis
+  - Mutlivariate time series analysis
+  profile_url: ''
+- name: Shurong Zheng
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Northeast Normal University, Changchun, Jilin, China
+  interests:
+  - High-dimensional correlation matrix
+  - Random matrix theory
+  - Testing high-dimensional covariance matrix
+  profile_url: ''
+- name: Wen Zhou
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Colorado State University, Department of Statistics and Colorado School of Public Health,
+    Department of Biostatistics and Informatics, New York, New York, United States of America (the)
+  interests:
+  - Graphical and network modeling
+  - High dimensional statistics
+  - Time series
+  profile_url: ''
+- name: Zhou Zhou
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Zhejiang University Center for Data Science, Hangzhou, China
+  interests:
+  - Nonparametric statistics
+  - Tme series
+  - Change point analysis
+  profile_url: ''
+- name: Liping Zhu
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: Renmin University of China, Beijing, China
+  interests:
+  - Dependence measures
+  - Dimension reduction
+  - Feature screening
+  profile_url: ''
+- name: Konstantinos Zografos
+  credentials: ''
+  roles:
+  - Associate Editor
+  role_notes: {}
+  affiliation: University of Ioannina, Ioannina, Greece
+  interests:
+  - Classification and discrimination methods
+  - Copulas
+  - Dependence measures
+  - Discrete multivariate methods
+  - Multivariate distribution theory
+  - Statistical distances
+  profile_url: ''
+- name: Sylvia Frühwirth-Schnatter
+  credentials: ''
+  roles:
+  - Advisory Board
+  role_notes: {}
+  affiliation: Vienna University of Economics and Business, Vienna, Austria
+  interests: []
+  profile_url: ''
+- name: Faten Ezzine
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: University of Sfax, Sfax, Tunisia
+  interests:
+  - Stochastic differential equations
+  - Stochastic singular systems
+  - Stability
+  - Differential equations
+  - Geometric Brownian motion
+  profile_url: ''
+- name: Aki Ishii
+  credentials: ''
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Tokyo University of Science, Shinjuku City, Japan
+  interests:
+  - Discriminant analysis
+  - High-dimensional statistics
+  profile_url: ''
+- name: Joonpyo Kim
+  credentials: Ph.D.
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Sejong University, Gwangjin District, Korea, Republic of
+  interests:
+  - Spatio-temporal data analysis
+  - Functional data analysis
+  - Extreme value analysis
+  - Change point analysis
+  profile_url: ''
+- name: Mihyun Kim
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: West Virginia University, Morgantown, West Virginia, United States of America (the)
+  interests:
+  - Functional data analysis
+  - Extreme value analysis
+  profile_url: ''
+- name: Jie Li
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Renmin University of China, Beijing, China
+  interests:
+  - Function data analysis and its applications
+  - Spatio-temporal analysis
+  - Times series analysis
+  - Non-/Semi-parametric regression
+  - Causal inference
+  profile_url: ''
+- name: Hoyoung Park
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Sookmyung Women's University, Yongsan District, Korea, Republic of
+  interests:
+  - Asymptotic Theory
+  - Classification and Clustering methods
+  - Empirical Bayes
+  - High-dimensional hypothesis testing
+  - Nonparametric Method
+  profile_url: ''
+- name: Seongoh Park
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Sungshin Women's University, Seongbuk District, Korea, Republic of
+  interests:
+  - Covariance/precision matrix estimation
+  - undirected Graphical models
+  - Matrix-variate data analysis
+  profile_url: ''
+- name: Mengxi Yi
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Beijing Normal University, Beijing, China
+  interests:
+  - Multivariate Analysis
+  - Robust Statistics
+  - Spatial Statistics
+  - Multiple TestingProblem
+  - Random Matrix
+  - Multiple Testing Problem
+  profile_url: ''
+- name: Zhiyang Zhou
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: University of Wisconsin-Milwaukee, Milwaukee, Wisconsin, United States of America (the)
+  interests:
+  - Functional/longitudinal data analysis
+  - Deep learning/neural network
+  profile_url: ''
+- name: Tingting Zou
+  credentials: PhD
+  roles:
+  - Early Career Advisory Board
+  role_notes: {}
+  affiliation: Jilin University, Changchun, China
+  interests:
+  - Large-dimensional random matrix theory
+  - High-dimensional statistical inference
+  profile_url: ''

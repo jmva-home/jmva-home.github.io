@@ -9,6 +9,9 @@
     <link rel="canonical" href="{{ page.url | absolute_url }}">
     <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    {% if page.editorial_board %}
+    <script src="{{ '/assets/js/editorial-board.js' | relative_url }}" defer></script>
+    {% endif %}
   </head>
   <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
@@ -35,34 +38,40 @@
         <a href="{{ '/editorial-messages/' | relative_url }}"{% if page.url == '/editorial-messages/' %} aria-current="page"{% endif %}><span aria-hidden="true">01</span> Editorial messages</a>
         <a href="{{ '/special-issues/' | relative_url }}"{% if page.url == '/special-issues/' %} aria-current="page"{% endif %}><span aria-hidden="true">02</span> Special issues</a>
         <a href="{{ '/templates/' | relative_url }}"{% if page.url == '/templates/' %} aria-current="page"{% endif %}><span aria-hidden="true">03</span> Templates</a>
+        <a href="{{ '/' | relative_url }}#editorial-board"><span aria-hidden="true">04</span> Editorial board</a>
       </nav>
 
-      <div class="content-grid">
-        <main id="main-content" class="editorial-content" tabindex="-1">
-          {{ content }}
-        </main>
+      <main id="main-content" tabindex="-1">
+        <div class="content-grid">
+          <div class="editorial-content">
+            {{ content }}
+          </div>
 
-        <aside class="author-desk" aria-labelledby="author-desk-heading">
-          <p class="eyebrow">Useful links</p>
-          <h2 id="author-desk-heading">The author's desk</h2>
-          <p>Keep the journal's publishing resources close at hand.</p>
-          <ul class="resource-links">
-            <li>
-              <a href="{{ site.author_guide_url }}">
-                <span>Guide for Authors<small>Manuscript preparation</small></span>
-                <span aria-hidden="true">↗</span>
-              </a>
-            </li>
-            <li>
-              <a href="{{ site.journal_url }}">
-                <span>Journal homepage<small>Articles and journal information</small></span>
-                <span aria-hidden="true">↗</span>
-              </a>
-            </li>
-          </ul>
-          <p class="companion-note">This companion page is maintained by JMVA Editor in Chief <a href="https://liu.se/en/employee/dievo64">Dietrich von Rosen</a> and Associate Editor <a href="https://feng.li/">Feng Li</a>. Consult the publisher's website for current journal policies and submission requirements.</p>
-        </aside>
-      </div>
+          <aside class="author-desk" aria-labelledby="author-desk-heading">
+            <p class="eyebrow">Useful links</p>
+            <h2 id="author-desk-heading">The author's desk</h2>
+            <p>Keep the journal's publishing resources close at hand.</p>
+            <ul class="resource-links">
+              <li>
+                <a href="{{ site.author_guide_url }}">
+                  <span>Guide for Authors<small>Manuscript preparation</small></span>
+                  <span aria-hidden="true">↗</span>
+                </a>
+              </li>
+              <li>
+                <a href="{{ site.journal_url }}">
+                  <span>Journal homepage<small>Articles and journal information</small></span>
+                  <span aria-hidden="true">↗</span>
+                </a>
+              </li>
+            </ul>
+            <p class="companion-note">This companion page is maintained by JMVA Editor in Chief <a href="https://liu.se/en/employee/dievo64">Dietrich von Rosen</a> and Associate Editor <a href="https://feng.li/">Feng Li</a>. Consult the publisher's website for current journal policies and submission requirements.</p>
+          </aside>
+        </div>
+        {% if page.editorial_board %}
+        {% include 'editorial-board.html' %}
+        {% endif %}
+      </main>
 
       <footer class="site-footer">
         <p><span class="footer-mark">JMVA</span> Editorial companion</p>
