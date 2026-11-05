@@ -1,29 +1,32 @@
 # JMVA editorial companion
 
-A simple Markdown homepage for the *Journal of Multivariate Analysis*,
+A simple Markdown website for the *Journal of Multivariate Analysis*,
 maintained by a JMVA associate editor. Built with Jekyll for GitHub Pages,
 with no JavaScript, external fonts, or theme dependencies.
 
-## Edit the homepage
+## Edit the content
 
-All three content sections live in **[index.md](index.md)**:
+The homepage links to three sections, each in its own subfolder:
 
-- **Editorial messages:** announcements and important notices.
-- **Calls for special issues:** confirmed calls, guest editors, and deadlines.
-- **Editor-confirmed templates:** approved files with versions and confirmation dates.
+| File | Content |
+| --- | --- |
+| [index.md](index.md) | Homepage overview and links to the sections |
+| [editorial-messages/index.md](editorial-messages/index.md) | Editorial announcements and important notices |
+| [special-issues/index.md](special-issues/index.md) | Confirmed calls, guest editors, and deadlines |
+| [templates/index.md](templates/index.md) | Approved files with versions and confirmation dates |
 
 Edit the text using ordinary Markdown and update `last_updated` in the front
-matter. Keep the three `##` section headings unchanged because the navigation
-links use their generated IDs. Add new entries below the appropriate heading,
-with the newest or most important first. Use a blockquote (`>`) to highlight an
-important notice. Remove a section's empty-state text when adding its first entry.
+matter of the page you changed. Keep the folders and `permalink` values unchanged
+so the navigation links continue to work. Add new entries to the relevant section
+page, with the newest or most important first. Use a blockquote (`>`) to highlight
+an important notice. Remove a section's empty-state text when adding its first entry.
 
 The initial page contains a welcome message and empty states. It does not
 announce a real special issue or label any unverified file as editor-approved.
 
 ### Add an editorial message
 
-Place this below `## Editorial messages`, replacing the example fields:
+Add this to `editorial-messages/index.md`, replacing the example fields:
 
 ```markdown
 ### [Message title]
@@ -37,7 +40,7 @@ Place this below `## Editorial messages`, replacing the example fields:
 
 ### Add a special issue call
 
-Place this below `## Calls for special issues` once the call is confirmed:
+Add this to `special-issues/index.md` once the call is confirmed:
 
 ```markdown
 ### [Special issue title]
@@ -48,18 +51,20 @@ Place this below `## Calls for special issues` once the call is confirmed:
 
 [Scope, topics, and intended contributions.]
 
-[Read the full call](downloads/special-issue-call.pdf)
+[Read the full call](special-issue-call.pdf)
 
 **How to submit:** [Confirmed submission instructions and link.]
 ```
 
-Upload the full call before linking it. Update the status and instructions when
-the deadline passes; there is no automatic deadline or status calculation.
+Upload the full call to `special-issues/` before linking it. The example link
+points to a file alongside that section's `index.md`. Update the status and
+instructions when the deadline passes; there is no automatic deadline or status
+calculation.
 
 ### Add a confirmed template
 
-Upload approved files to **[downloads/](downloads/)**. Then add an entry below
-`## Editor-confirmed templates`:
+Upload approved files to **[templates/](templates/)**. Then add an entry to
+`templates/index.md`:
 
 ```markdown
 ### [Template name]
@@ -68,8 +73,8 @@ Upload approved files to **[downloads/](downloads/)**. Then add an entry below
 - **Confirmed:** [Day Month Year] by [Editor or editorial office]
 - **Use for:** [Initial submissions, revisions, or another confirmed purpose]
 
-[Download LaTeX source](downloads/jmva-template-v1.zip) ·
-[View sample PDF](downloads/jmva-template-v1.pdf)
+[Download LaTeX source](jmva-template-v1.zip) ·
+[View sample PDF](jmva-template-v1.pdf)
 ```
 
 These are editing examples, not approved resources. Only publish a template
@@ -106,11 +111,13 @@ server, run `bundle exec jekyll build`.
 
 | File | Purpose |
 | --- | --- |
-| `index.md` | Homepage content and last-updated date |
+| `index.md` | Homepage overview and links to the sections |
+| `editorial-messages/` | Editorial messages in `index.md` |
+| `special-issues/` | Special issue calls in `index.md` and related call documents |
+| `templates/` | Template listings in `index.md` and approved files |
 | `_config.yml` | Journal name, description, site address, and publisher links |
 | `_layouts/default.html` | Masthead, navigation, author links, and footer |
 | `assets/css/style.css` | Colours, typography, and responsive layout |
-| `downloads/` | Confirmed template files and call documents |
 
 The site uses a quiet paper background, serif headings, and a single-column
 layout on small screens. Publisher links lead to the journal's

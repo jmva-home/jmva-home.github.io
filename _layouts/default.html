@@ -30,10 +30,11 @@
         <p class="hero-description">Editorial updates and resources.<br>A shared reference for your next contribution.</p>
       </section>
 
-      <nav class="section-nav" aria-label="On this page">
-        <a href="#editorial-messages"><span aria-hidden="true">01</span> Editorial messages</a>
-        <a href="#calls-for-special-issues"><span aria-hidden="true">02</span> Special issues</a>
-        <a href="#editor-confirmed-templates"><span aria-hidden="true">03</span> Templates</a>
+      <nav class="section-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/editorial-messages/' | relative_url }}"{% if page.url == '/editorial-messages/' %} aria-current="page"{% endif %}><span aria-hidden="true">01</span> Editorial messages</a>
+        <a href="{{ '/special-issues/' | relative_url }}"{% if page.url == '/special-issues/' %} aria-current="page"{% endif %}><span aria-hidden="true">02</span> Special issues</a>
+        <a href="{{ '/templates/' | relative_url }}"{% if page.url == '/templates/' %} aria-current="page"{% endif %}><span aria-hidden="true">03</span> Templates</a>
       </nav>
 
       <div class="content-grid">

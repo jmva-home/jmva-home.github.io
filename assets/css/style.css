@@ -185,6 +185,11 @@ h1 {
   color: var(--accent);
 }
 
+.section-nav a[aria-current="page"] {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
 .section-nav span {
   color: var(--accent);
   font-size: 0.64rem;
