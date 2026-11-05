@@ -13,7 +13,7 @@ The homepage links to three sections, each in its own subfolder:
 | [index.md](index.md) | Homepage overview and links to the sections |
 | [editorial-messages/index.md](editorial-messages/index.md) | Editorial announcements and important notices |
 | [special-issues/index.md](special-issues/index.md) | Confirmed calls, guest editors, and deadlines |
-| [templates/index.md](templates/index.md) | Approved files with versions and confirmation dates |
+| [templates/index.md](templates/index.md) | JMVA LaTeX template repository, latest ZIP download, and preparation instructions |
 
 Edit the text using ordinary Markdown and update `last_updated` in the front
 matter of the page you changed. Keep the folders and `permalink` values unchanged
@@ -21,8 +21,10 @@ so the navigation links continue to work. Add new entries to the relevant sectio
 page, with the newest or most important first. Use a blockquote (`>`) to highlight
 an important notice. Remove a section's empty-state text when adding its first entry.
 
-The initial page contains a welcome message and empty states. It does not
-announce a real special issue or label any unverified file as editor-approved.
+The editorial page contains a welcome message, and the special issues page
+has an empty state until a confirmed call is posted. The homepage and Templates
+page ask authors to use the JMVA LaTeX template and link to its GitHub repository
+and latest ZIP download.
 
 ### Add an editorial message
 
@@ -63,8 +65,14 @@ calculation.
 
 ### Add a confirmed template
 
-Upload approved files to **[templates/](templates/)**. Then add an entry to
-`templates/index.md`:
+The JMVA LaTeX template is maintained in
+[its GitHub repository](https://github.com/jmva-home/JMVA-templates). The homepage
+and Templates page link to the repository and its `main` branch ZIP archive so
+authors can download the latest files. Keep those links in sync when the
+repository or branch changes.
+
+For additional approved files hosted on this website, upload them to
+**[templates/](templates/)** and add an entry to `templates/index.md`:
 
 ```markdown
 ### [Template name]
@@ -114,7 +122,7 @@ server, run `bundle exec jekyll build`.
 | `index.md` | Homepage overview and links to the sections |
 | `editorial-messages/` | Editorial messages in `index.md` |
 | `special-issues/` | Special issue calls in `index.md` and related call documents |
-| `templates/` | Template listings in `index.md` and approved files |
+| `templates/` | Template instructions in `index.md` and optional approved file uploads |
 | `_config.yml` | Journal name, description, site address, and publisher links |
 | `_layouts/default.html` | Masthead, navigation, author links, and footer |
 | `assets/css/style.css` | Colours, typography, and responsive layout |

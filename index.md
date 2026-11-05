@@ -24,7 +24,9 @@ contributing to confirmed special issues.
 
 ## Editor-confirmed templates
 
-Manuscript resources confirmed by the editors, with versions, confirmation
-dates, and guidance on their intended use.
+Please use the **JMVA LaTeX template** when preparing your manuscript.
 
-[Find editor-confirmed templates →]({{ '/templates/' | relative_url }})
+- [Browse the template repository on GitHub](https://github.com/jmva-home/JMVA-templates)
+- [Download the latest template (ZIP)](https://github.com/jmva-home/JMVA-templates/archive/refs/heads/main.zip)
+
+[Template instructions →]({{ '/templates/' | relative_url }})
