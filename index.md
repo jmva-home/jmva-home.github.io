@@ -2,7 +2,6 @@
 layout: default
 title: Editorial companion
 permalink: /
-editorial_board: true
 last_updated: "2026-11-05"
 ---
 
@@ -33,3 +32,11 @@ formatting and style.
 - [Download the latest template (ZIP)](https://github.com/jmva-home/JMVA-templates/archive/refs/heads/main.zip)
 
 [Template instructions →]({{ '/templates/' | relative_url }})
+
+---
+
+## Editorial board
+
+Find board members by name, research interest, or editorial role.
+
+[Search the editorial board →]({{ '/editorial-board/' | relative_url }})

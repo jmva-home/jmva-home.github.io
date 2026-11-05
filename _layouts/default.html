@@ -38,10 +38,13 @@
         <a href="{{ '/editorial-messages/' | relative_url }}"{% if page.url == '/editorial-messages/' %} aria-current="page"{% endif %}><span aria-hidden="true">01</span> Editorial messages</a>
         <a href="{{ '/special-issues/' | relative_url }}"{% if page.url == '/special-issues/' %} aria-current="page"{% endif %}><span aria-hidden="true">02</span> Special issues</a>
         <a href="{{ '/templates/' | relative_url }}"{% if page.url == '/templates/' %} aria-current="page"{% endif %}><span aria-hidden="true">03</span> Templates</a>
-        <a href="{{ '/' | relative_url }}#editorial-board"><span aria-hidden="true">04</span> Editorial board</a>
+        <a href="{{ '/editorial-board/' | relative_url }}"{% if page.url == '/editorial-board/' %} aria-current="page"{% endif %}><span aria-hidden="true">04</span> Editorial board</a>
       </nav>
 
       <main id="main-content" tabindex="-1">
+        {% if page.editorial_board %}
+        {% include editorial-board.html %}
+        {% endif %}
         <div class="content-grid">
           <div class="editorial-content">
             {{ content }}
@@ -68,9 +71,6 @@
             <p class="companion-note">This companion page is maintained by JMVA Editor in Chief <a href="https://liu.se/en/employee/dievo64">Dietrich von Rosen</a> and Associate Editor <a href="https://feng.li/">Feng Li</a>. Consult the publisher's website for current journal policies and submission requirements.</p>
           </aside>
         </div>
-        {% if page.editorial_board %}
-        {% include 'editorial-board.html' %}
-        {% endif %}
       </main>
 
       <footer class="site-footer">

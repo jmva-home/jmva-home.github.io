@@ -7,14 +7,15 @@ editorial board search and no external fonts or theme dependencies.
 
 ## Edit the content
 
-The homepage links to three sections, each in its own subfolder:
+The homepage links to four sections, each in its own subfolder:
 
 | File | Content |
 | --- | --- |
-| [index.md](index.md) | Homepage overview, section links, and the `editorial_board` display setting |
+| [index.md](index.md) | Homepage overview and section links |
 | [editorial-messages/index.md](editorial-messages/index.md) | Editorial announcements and important notices |
 | [special-issues/index.md](special-issues/index.md) | Confirmed calls, guest editors, and deadlines |
 | [templates/index.md](templates/index.md) | JMVA LaTeX template repository, latest ZIP download, and preparation instructions |
+| [editorial-board/index.md](editorial-board/index.md) | Searchable board directory and its `editorial_board` display setting |
 | [_data/editorial_board.yml](_data/editorial_board.yml) | Editorial board names, roles, affiliations, and research interests |
 
 Edit the text using ordinary Markdown and update `last_updated` in the front
@@ -31,7 +32,8 @@ Both pages link to the GitHub repository and latest ZIP download.
 
 ### Update the editorial board
 
-The homepage includes a searchable directory of **95 people**, preserving all
+The [Editorial board page](editorial-board/index.md) includes a searchable directory
+of **95 people**, preserving all
 **97 role listings** in the publisher text supplied by the maintainer on
 5 November 2026. The source is the journal's
 [ScienceDirect editorial board](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/editorial-board).
@@ -155,14 +157,18 @@ bundle exec jekyll serve
 Open **http://localhost:4000**. To check a production build without starting a
 server, run `bundle exec jekyll build`.
 
+Run the Jekyll build before pushing changes to layouts or includes. Include
+filenames use Jekyll's unquoted syntax: `{% include editorial-board.html %}`.
+
 ## Adjust the design
 
 | File | Purpose |
 | --- | --- |
-| `index.md` | Homepage overview and editorial board display setting |
+| `index.md` | Homepage overview and section links |
 | `editorial-messages/` | Editorial messages in `index.md` |
 | `special-issues/` | Special issue calls in `index.md` and related call documents |
 | `templates/` | Template instructions in `index.md` and optional approved file uploads |
+| `editorial-board/` | Searchable directory page and its display setting |
 | `_config.yml` | Journal name, description, site address, and publisher links |
 | `_layouts/default.html` | Masthead, navigation, author links, and footer |
 | `_includes/editorial-board.html` | Board directory and search controls |
