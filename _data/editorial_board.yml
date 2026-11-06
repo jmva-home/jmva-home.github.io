@@ -44,7 +44,7 @@ members:
   - Functional data analysis
   - Partial linear regression models
   - Variable selection
-  profile_url: ''
+  profile_url: https://dm.udc.es/staff/german_aneiros/
 - name: Makoto Aoshima
   credentials: ''
   roles:
@@ -55,7 +55,7 @@ members:
   - Classification and discrimination methods
   - High-dimensional data analysis
   - Principal component analysis
-  profile_url: ''
+  profile_url: https://www.math.tsukuba.ac.jp/~aoshima-lab/profile.html
 - name: Adelchi Azzalini
   credentials: ''
   roles:
@@ -69,7 +69,7 @@ members:
   - Longitudinal data analysis
   - Multivariate distribution theory
   - Non-parametric estimation via smoothing methods
-  profile_url: ''
+  profile_url: http://azzalini.stat.unipd.it/
 - name: François Bachoc
   credentials: ''
   roles:
@@ -80,7 +80,7 @@ members:
   - Gaussian processes
   - Parametric estimation
   - Spatial statistics
-  profile_url: ''
+  profile_url: https://pro.univ-lille.fr/francois-bachoc
 - name: Andriette Bekker
   credentials: ''
   roles:
@@ -91,7 +91,7 @@ members:
   - Model- based clustering
   - Matrix-variate and multivariate distributions
   - Directional statistics
-  profile_url: ''
+  profile_url: https://www.up.ac.za/statistics/staff-profiles/andriette-bekker
 - name: Taras Bodnar
   credentials: ''
   roles:
@@ -103,7 +103,7 @@ members:
   - Copula modeling
   - High-dimensional statistics
   - Multiple testing
-  profile_url: ''
+  profile_url: https://liu.se/en/employee/tarbo31
 - name: Shizhe Chen
   credentials: ''
   roles:
@@ -115,7 +115,7 @@ members:
   - Graphical models
   - High-dimensional statistics
   - Causal inference
-  profile_url: ''
+  profile_url: https://statistics.ucdavis.edu/people/shizhe-chen
 - name: Elvira Di Nardo
   credentials: ''
   roles:
@@ -139,7 +139,7 @@ members:
   - Machine learning and deep learning theory
   - Non-stationary time series analysis
   - Randomized algorithms Statistical learning theory
-  profile_url: ''
+  profile_url: https://biostat.ucdavis.edu/people/xiucai-ding
 - name: Boualem Djehiche
   credentials: ''
   roles:
@@ -150,7 +150,7 @@ members:
   - Interacting particle systems
   - Large deviations and concentration inequalities
   - Stochastic analysis
-  profile_url: ''
+  profile_url: https://www.kth.se/profile/boualem/
 - name: Daniele Durante
   credentials: ''
   roles:
@@ -162,7 +162,7 @@ members:
   - Categorical data analysis
   - Latent variable models
   - Network analysis
-  profile_url: ''
+  profile_url: https://www.unibocconi.it/en/faculty/daniele-durante
 - name: Katarzyna Filipiak
   credentials: ''
   roles:
@@ -173,7 +173,7 @@ members:
   - Estimation and testing covariance structures
   - Extended growth curve models
   - multi-level multivariate models
-  profile_url: ''
+  profile_url: https://katarzyna.filipiak.pracownik.put.poznan.pl/index_en.html
 - name: Gery Geenens
   credentials: ''
   roles:
@@ -184,7 +184,7 @@ members:
   - Copulas and dependence modelling
   - Nonparametric and semiparametric estimation of probability densities and regression functions
   - Statistical depth
-  profile_url: ''
+  profile_url: https://www.unsw.edu.au/staff/gery-geenens
 - name: Christian Genest
   credentials: ''
   roles:
@@ -200,7 +200,7 @@ members:
   - Mathematical statistics
   - Multivariate analysis
   - Nonparametric inference
-  profile_url: ''
+  profile_url: https://www.math.mcgill.ca/cgenest/
 - name: Xu Guo
   credentials: ''
   roles:
@@ -211,7 +211,7 @@ members:
   - High-dimensional hypothesis testing
   - High-dimensional regression analysis
   - Nonlinear dependence
-  profile_url: ''
+  profile_url: https://stat.bnu.edu.cn/english/faculty/facultydirectory/dedpartmentofmathematicalstatistics/237291.html
 - name: Chengcheng Hao
   credentials: ''
   roles:
@@ -222,7 +222,7 @@ members:
   - High-dimensional diagnostics
   - Robust statistics
   - Tensor data modelling
-  profile_url: ''
+  profile_url: https://www.suibe.edu.cn/tsxy/2017/0530/c5782a45349/page.htm
 - name: Solomon Harrar
   credentials: ''
   roles:
@@ -234,7 +234,7 @@ members:
   - High-dimensional data analysis
   - Multivariate distribution theory
   - Rank based methods
-  profile_url: ''
+  profile_url: https://scholars.uky.edu/en/persons/solomon-harrar/
 - name: Yong He
   credentials: ''
   roles:
@@ -245,7 +245,7 @@ members:
   - Factor Modelling/PCA
   - Robust statistics
   - Matrix/Tensor data analysis
-  profile_url: ''
+  profile_url: https://faculty.sdu.edu.cn/heyong/zh_CN/index/1013884/list/
 - name: Thomas Holgersson
   credentials: ''
   roles:
@@ -257,7 +257,7 @@ members:
   - High-dimensional data analysis
   - Regularization methods
   - Multivariate autokorrelation
-  profile_url: ''
+  profile_url: https://www.lnu.se/en/staff/thomas.holgersson/
 - name: Lajos Horvath
   credentials: ''
   roles:
@@ -271,7 +271,7 @@ members:
   - functional data
   - change points
   - time series
-  profile_url: ''
+  profile_url: https://profiles.faculty.utah.edu/u0029880
 - name: Jiang Hu
   credentials: ''
   roles:
@@ -281,7 +281,7 @@ members:
   interests:
   - Random Matrix Theory
   - High-Dimensional Statistics
-  profile_url: ''
+  profile_url: https://math127.nenu.edu.cn/shuxue/WebPage/WebPageView.php?WorkCur=7&WorkType=2013900023
 - name: Jianhua Hu
   credentials: ''
   roles:
@@ -293,7 +293,7 @@ members:
   - High-dimensional data analysis
   - Sparse statistical modelling
   - Spatial statistics
-  profile_url: ''
+  profile_url: https://ssds.sufe.edu.cn/ssds_en/03/14/c20064a262932/page.htm
 - name: Jianhua Huang
   credentials: ''
   roles:
@@ -307,7 +307,7 @@ members:
   - Nonparametric function estimation
   - Sparse statistical modelling
   - Spatial statistics
-  profile_url: ''
+  profile_url: https://sds.cuhk.edu.cn/teacher/470
 - name: Masashi Hyodo
   credentials: ''
   roles:
@@ -318,7 +318,7 @@ members:
   - Multivariate Analysis
   - Asymptotic Theory
   - Mathematical Statistics
-  profile_url: ''
+  profile_url: https://kenkyu.kanagawa-u.ac.jp/kuhp/KgApp?Language=2&kyoinId=ymbegyomggy
 - name: Harry Joe
   credentials: ''
   roles:
@@ -332,7 +332,7 @@ members:
   - Extreme value inference
   - Latent variable models
   - Multivariate random effects models.
-  profile_url: ''
+  profile_url: https://www.stat.ubc.ca/~harry/
 - name: John Kent
   credentials: ''
   roles:
@@ -342,7 +342,7 @@ members:
   interests:
   - Directional statistics
   - Shape analysis
-  profile_url: ''
+  profile_url: https://eps.leeds.ac.uk/maths/staff/4044/professor-john-t-kent
 - name: Yuriy Kharin
   credentials: ''
   roles:
@@ -363,7 +363,7 @@ members:
   - Classification and discrimination methods
   - Copulas
   - Multivariate distribution theory
-  profile_url: ''
+  profile_url: https://stoch.math.kit.edu/english/klar.php
 - name: Ivan Kojadinovic
   credentials: ''
   roles:
@@ -377,7 +377,7 @@ members:
   - Environmental and financial applications
   - Non-parametric multivariate analysis
   - Resampling techniques
-  profile_url: ''
+  profile_url: https://ikojadin.perso.univ-pau.fr/home.html
 - name: Piotr Kokoszka
   credentials: ''
   roles:
@@ -388,7 +388,7 @@ members:
   - Extreme value inference
   - Functional data analysis
   - Spatial statistics
-  profile_url: ''
+  profile_url: https://www.stat.colostate.edu/~piotr/
 - name: Xiaoli Kong
   credentials: ''
   roles:
@@ -410,7 +410,7 @@ members:
   - Copulas
   - Multivariate extremes
   - Tail dependence
-  profile_url: ''
+  profile_url: https://ms.unimelb.edu.au/people/profile?id=2384
 - name: Can Le
   credentials: ''
   roles:
@@ -421,7 +421,7 @@ members:
   - Network Analysis
   - Spectral Methods
   - Multi-view Learning
-  profile_url: ''
+  profile_url: https://statistics.ucdavis.edu/people/can-le
 - name: Feng Li
   credentials: ''
   roles:
@@ -449,7 +449,7 @@ members:
   - Feature screening methods
   - High-dimensional data analysis
   - Longitudinal data analysis
-  profile_url: ''
+  profile_url: https://science.psu.edu/stat/people/ril4
 - name: Xiaodong Li
   credentials: ''
   roles:
@@ -462,7 +462,7 @@ members:
   - Multivariate Statistics
   - Network Analysis
   - Optimization
-  profile_url: ''
+  profile_url: https://www.stat.ucdavis.edu/~xdgli/
 - name: Yehua Li
   credentials: ''
   roles:
@@ -474,7 +474,7 @@ members:
   - High-dimensional data analysis
   - Longitudinal data analysis
   - Spatial-temporal statistics
-  profile_url: ''
+  profile_url: https://profiles.ucr.edu/app/home/profile/yehuali
 - name: Zeng Li
   credentials: ''
   roles:
@@ -486,7 +486,7 @@ members:
   - High-dimensional statistics
   - Hypothesis testing
   - machine learning
-  profile_url: ''
+  profile_url: https://sustech.edu.cn/zh/faculties/liceng.html
 - name: Heng Lian
   credentials: ''
   roles:
@@ -497,7 +497,7 @@ members:
   - Functional data analysis
   - High-dimensional statistics
   - Statistical machine learning
-  profile_url: ''
+  profile_url: https://scholars.cityu.edu.hk/en/persons/henglian/
 - name: Bin Liu
   credentials: ''
   roles:
@@ -519,7 +519,7 @@ members:
   - Multivariate distributions
   - Multivariate linear models and GLM
   - Statistical diagnostics
-  profile_url: ''
+  profile_url: https://researchprofiles.canberra.edu.au/en/persons/shuangzhe-liu/
 - name: Yufeng Liu
   credentials: ''
   roles:
@@ -547,7 +547,7 @@ members:
   - Multivariate distribution theory
   - Parametric inference
   - Stein estimation
-  profile_url: ''
+  profile_url: https://www.usherbrooke.ca/mathematiques/nous-joindre/personnel/corps-professoral/professeurs/eric-marchand
 - name: Nirian Martin
   credentials: ''
   roles:
@@ -558,7 +558,7 @@ members:
   - Categorical data analysis
   - Order restricted statistical inference
   - Robust statistics
-  profile_url: ''
+  profile_url: https://www.ucm.es/imi/nirian-martin-apaolaza
 - name: Thomas Mathew
   credentials: ''
   roles:
@@ -580,7 +580,7 @@ members:
   - Le Cam theory of statistical experiments
   - Non-parametric curve estimation
   - Statistical inverse problems
-  profile_url: ''
+  profile_url: https://www.mathematik.uni-rostock.de/unser-institut/professuren-apl-prof/mathematische-statistik-mit-schwerpunkt-stochastische-prozesse/alexander-meister
 - name: Johanna G. Nešlehová
   credentials: ''
   roles:
@@ -592,7 +592,7 @@ members:
   - Extreme-value theory
   - Multivariate distributions
   - Rank-based inference
-  profile_url: ''
+  profile_url: https://www.math.mcgill.ca/neslehova/
 - name: Natalie Neumeyer
   credentials: ''
   roles:
@@ -603,7 +603,7 @@ members:
   - Multivariate bootstrap methods
   - Non-parametric multivariate analysis
   - Semi-parametric multivariate analysis
-  profile_url: ''
+  profile_url: https://wwwp2.math.uni-hamburg.de/forschung/bereiche/st/mathstat/personen/neumeyer-natalie.html
 - name: Sévérien Nkurunziza
   credentials: ''
   roles:
@@ -614,7 +614,7 @@ members:
   - Change point analysis
   - High-dimensional data analysis
   - Shrinkage estimators
-  profile_url: ''
+  profile_url: https://www.uwindsor.ca/science/math/711/faculty-dr-s%C3%A9v%C3%A9rien-nkurunziza
 - name: Klaus Nordhausen
   credentials: ''
   roles:
@@ -625,7 +625,7 @@ members:
   - Blind source separation methods
   - Dimension reduction
   - Robust multivariate methods
-  profile_url: ''
+  profile_url: https://researchportal.helsinki.fi/en/persons/klaus-nordhausen/
 - name: Haruhiko Ogasawara
   credentials: ''
   roles:
@@ -637,7 +637,7 @@ members:
   - Factor analysis
   - Multivariate skewness and kurtosis measures
   - Principal component analysis
-  profile_url: ''
+  profile_url: https://www.otaru-uc.ac.jp/~emt-hogasa/
 - name: Ostap Okhrin
   credentials: ''
   roles:
@@ -648,7 +648,7 @@ members:
   - Copulas
   - Estimation Theory
   - Machine Learning
-  profile_url: ''
+  profile_url: https://tu-dresden.de/bu/verkehr/ivw/osv/die-professur/inhaber-in
 - name: Frédéric Ouimet
   credentials: ''
   roles:
@@ -663,7 +663,7 @@ members:
   - Asymmetric kernels
   - Wishart distribution
   - Kernel density estimation
-  profile_url: ''
+  profile_url: https://oraprdnt.uqtr.uquebec.ca/portail/genw050r.page_perso?owa_no_personne=888401
 - name: Jianxin Pan
   credentials: ''
   roles:
@@ -676,7 +676,7 @@ members:
   - Multivariate distributions
   - Network analysis
   - Patterned covariance matrix analysis
-  profile_url: ''
+  profile_url: https://www.bnbu.edu.cn/en/info/1481/11163.htm
 - name: Leandro Pardo
   credentials: ''
   roles:
@@ -688,7 +688,7 @@ members:
   - Asymptotic theory
   - Minimum distance estimators
   - Robust multivariate methods
-  profile_url: ''
+  profile_url: https://produccioncientifica.ucm.es/investigadores/141997/detalle
 - name: Junyong Park
   credentials: ''
   roles:
@@ -700,7 +700,7 @@ members:
   - Clustering methods
   - Hypotheses testing in high dimensions
   - Multiple comparisons
-  profile_url: ''
+  profile_url: https://statsri.snu.ac.kr/snu__professor/junyong-park/
 - name: Krzysztof Podgórski
   credentials: ''
   roles:
@@ -711,7 +711,7 @@ members:
   - High-dimensional and functional data analysis
   - non-Gaussian multivariate methods
   - random matrices
-  profile_url: ''
+  profile_url: https://portal.research.lu.se/en/persons/krzysztof-podg%C3%B3rski/
 - name: Wolfgang Polonik
   credentials: ''
   roles:
@@ -723,7 +723,7 @@ members:
   - Non-parametric multivariate analysis
   - Shape constrained inference
   - Topological data analysis
-  profile_url: ''
+  profile_url: https://www.stat.ucdavis.edu/~polonik/WP-personal-home.html
 - name: Bruno Rémillard
   credentials: ''
   roles:
@@ -734,7 +734,7 @@ members:
   - Dependence modelling
   - Empirical processes
   - Multivariate time series.
-  profile_url: ''
+  profile_url: http://neumann.hec.ca/pages/bruno.remillard/
 - name: Anne Ruiz-Gazen
   credentials: ''
   roles:
@@ -747,7 +747,7 @@ members:
   - Outlier detection
   - Robust statistics
   - Survey sampling
-  profile_url: ''
+  profile_url: https://www.ut-capitole.fr/accueil/mme-anne-ruiz-gazen
 - name: Wolfgang Schmid
   credentials: ''
   roles:
@@ -770,7 +770,7 @@ members:
   - Asymptotic theory
   - Missing data analysis
   - Multivariate distribution theory
-  profile_url: ''
+  profile_url: https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?act=nam&kin=ken&diu=13E2&pri=en
 - name: Peter X.K. Song
   credentials: ''
   roles:
@@ -783,7 +783,7 @@ members:
   - High-dimensional data analysis
   - Longitudinal data analysis
   - Meta analysis
-  profile_url: ''
+  profile_url: https://sph.umich.edu/faculty-profiles/song-peter.html
 - name: Akimichi Takemura
   credentials: ''
   roles:
@@ -794,7 +794,7 @@ members:
   - Algebraic methods in multivariate analysis
   - Decision theory
   - Multivariate distribution theory
-  profile_url: ''
+  profile_url: https://researchers.shiga-u.ac.jp/html/100002601_en.html
 - name: Thomas Verdebout
   credentials: ''
   roles:
@@ -807,7 +807,7 @@ members:
   - Rank-based inference
   - Semiparametric inference
   - Sign-based methods
-  profile_url: ''
+  profile_url: https://www.ulb.be/fr/thomas-verdebout
 - name: Albert Vexler
   credentials: ''
   roles:
@@ -815,7 +815,7 @@ members:
   role_notes: {}
   affiliation: University at Buffalo, Buffalo, New York, United States of America (the)
   interests: []
-  profile_url: ''
+  profile_url: https://researchconnect.buffalo.edu/en/persons/albert-vexler-10/
 - name: Marlos Viana
   credentials: ''
   roles:
@@ -826,7 +826,7 @@ members:
   - Combined multivariate analysis
   - Complex multivariate analysis
   - Symmetry analysis of multivariate data.
-  profile_url: ''
+  profile_url: https://dentistry.uic.edu/profiles/marlos-a-g-viana/
 - name: Philippe Vieu
   credentials: ''
   roles:
@@ -849,7 +849,7 @@ members:
   - Matrix-valued data
   - Robust statistics
   - Unsupervised dimension reduction
-  profile_url: ''
+  profile_url: https://users.utu.fi/jomivi/
 - name: Julia Volaufova
   credentials: ''
   roles:
@@ -861,7 +861,7 @@ members:
   - Longitudinal data analysis
   - Mixed and random effects models
   - Multivariate linear models
-  profile_url: ''
+  profile_url: https://publichealth.lsuhsc.edu/people/faculty/faculty-list/volaufova-julia.aspx
 - name: Simon Wood
   credentials: ''
   roles:
@@ -872,7 +872,7 @@ members:
   - Regression
   - Splines
   - Statistical computing
-  profile_url: ''
+  profile_url: https://webhomes.maths.ed.ac.uk/~swood34/
 - name: Yuying Xie
   credentials: ''
   roles:
@@ -884,7 +884,7 @@ members:
   - High-dimensional statistics
   - Neural Network analysis
   - Dimension reduction
-  profile_url: ''
+  profile_url: https://engineering.msu.edu/directory/faculty/xyy
 - name: Kai Xu
   credentials: ''
   roles:
@@ -895,7 +895,7 @@ members:
   - Dependence measure
   - High-dimensional statistic
   - Rank-based inference
-  profile_url: ''
+  profile_url: https://math.ahnu.edu.cn/info/1078/9619.htm
 - name: Jianfeng Yao
   credentials: ''
   roles:
@@ -906,7 +906,7 @@ members:
   - High-dimensional data analysis
   - Large sample covariance matrices
   - Random matrix theory
-  profile_url: ''
+  profile_url: https://sds.cuhk.edu.cn/teacher/506
 - name: Kazuyoshi Yata
   credentials: ''
   roles:
@@ -919,7 +919,7 @@ members:
   - High-dimensional hypothesis testing
   - High-dimensional principal component analysis and its applications
   - Statistical inference for high dimensional covariance matrix
-  profile_url: ''
+  profile_url: https://trios.tsukuba.ac.jp/en/researcher/0000000526
 - name: Long Yu
   credentials: ''
   roles:
@@ -929,7 +929,7 @@ members:
   interests:
   - factor model
   - large random matrix
-  profile_url: ''
+  profile_url: https://ssds.sufe.edu.cn/ssds_en/03/4c/c20067a262988/page.htm
 - name: Xianyang Zhang
   credentials: ''
   roles:
@@ -939,7 +939,7 @@ members:
   interests:
   - High dimensional data analysis
   - Mutlivariate time series analysis
-  profile_url: ''
+  profile_url: https://artsci.tamu.edu/statistics/contact/profiles/xianyang-zhang.html
 - name: Shurong Zheng
   credentials: ''
   roles:
@@ -950,7 +950,7 @@ members:
   - High-dimensional correlation matrix
   - Random matrix theory
   - Testing high-dimensional covariance matrix
-  profile_url: ''
+  profile_url: https://math127.nenu.edu.cn/shuxue/WebPage/WebPageView.php?WorkCur=3&WorkType=2000900103
 - name: Wen Zhou
   credentials: ''
   roles:
@@ -962,7 +962,7 @@ members:
   - Graphical and network modeling
   - High dimensional statistics
   - Time series
-  profile_url: ''
+  profile_url: https://publichealth.nyu.edu/faculty/wen-zhou
 - name: Zhou Zhou
   credentials: ''
   roles:
@@ -973,7 +973,7 @@ members:
   - Nonparametric statistics
   - Tme series
   - Change point analysis
-  profile_url: ''
+  profile_url: https://person.zju.edu.cn/zhouzhou2026
 - name: Liping Zhu
   credentials: ''
   roles:
@@ -984,7 +984,7 @@ members:
   - Dependence measures
   - Dimension reduction
   - Feature screening
-  profile_url: ''
+  profile_url: http://isbd.ruc.edu.cn/English/Faculty/4cabc254840b4c7faf6bfd87af686999.htm
 - name: Konstantinos Zografos
   credentials: ''
   roles:
@@ -998,7 +998,7 @@ members:
   - Discrete multivariate methods
   - Multivariate distribution theory
   - Statistical distances
-  profile_url: ''
+  profile_url: https://myweb.uoi.gr/kzograf/
 - name: Sylvia Frühwirth-Schnatter
   credentials: ''
   roles:
@@ -1006,7 +1006,7 @@ members:
   role_notes: {}
   affiliation: Vienna University of Economics and Business, Vienna, Austria
   interests: []
-  profile_url: ''
+  profile_url: https://statmath.wu.ac.at/~fruehwirth/
 - name: Faten Ezzine
   credentials: PhD
   roles:
@@ -1029,7 +1029,7 @@ members:
   interests:
   - Discriminant analysis
   - High-dimensional statistics
-  profile_url: ''
+  profile_url: https://www.tus.ac.jp/ridai/doc/ji/RIJIA01Detail.php?act=nam&diu=6e6a&kin=ken&pri=en
 - name: Joonpyo Kim
   credentials: Ph.D.
   roles:
@@ -1041,7 +1041,7 @@ members:
   - Functional data analysis
   - Extreme value analysis
   - Change point analysis
-  profile_url: ''
+  profile_url: https://staten.cau.ac.kr/members/professor?seq=24
 - name: Mihyun Kim
   credentials: PhD
   roles:
@@ -1051,7 +1051,7 @@ members:
   interests:
   - Functional data analysis
   - Extreme value analysis
-  profile_url: ''
+  profile_url: https://mathanddata.wvu.edu/directory/faculty/mihyun-kim
 - name: Jie Li
   credentials: PhD
   roles:
@@ -1064,7 +1064,7 @@ members:
   - Times series analysis
   - Non-/Semi-parametric regression
   - Causal inference
-  profile_url: ''
+  profile_url: https://stat.ruc.edu.cn/EN/FacultyStaff/Faculty/Department_of_Economic_and_Social_Statistics/185cc886807a4c24b9a2eb5eb4ba86f0.htm
 - name: Hoyoung Park
   credentials: PhD
   roles:
@@ -1077,7 +1077,7 @@ members:
   - Empirical Bayes
   - High-dimensional hypothesis testing
   - Nonparametric Method
-  profile_url: ''
+  profile_url: https://scholarworks.sookmyung.ac.kr/researcher/e87d5d30-6928-4ecc-9cbc-8901c3da2d46/item
 - name: Seongoh Park
   credentials: PhD
   roles:
@@ -1102,7 +1102,7 @@ members:
   - Multiple TestingProblem
   - Random Matrix
   - Multiple Testing Problem
-  profile_url: ''
+  profile_url: https://stat.bnu.edu.cn/ywjl/246545.htm
 - name: Zhiyang Zhou
   credentials: PhD
   roles:
@@ -1112,7 +1112,7 @@ members:
   interests:
   - Functional/longitudinal data analysis
   - Deep learning/neural network
-  profile_url: ''
+  profile_url: https://uwm.edu/publichealth/directory/zhou-zhiyang/
 - name: Tingting Zou
   credentials: PhD
   roles:
@@ -1122,4 +1122,4 @@ members:
   interests:
   - Large-dimensional random matrix theory
   - High-dimensional statistical inference
-  profile_url: ''
+  profile_url: https://math.jlu.edu.cn/info/1347/13989.htm

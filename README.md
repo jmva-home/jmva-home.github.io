@@ -42,7 +42,17 @@ automated fetch, is the basis for this directory.
 
 Edit **`_data/editorial_board.yml`** to update the directory. Each member has a
 name, optional credentials, roles, affiliation, research interests, and an
-optional verified profile link. Keep missing research interests as `[]`; their
+optional verified profile link (`profile_url`). A linked name opens the member's
+university homepage or institutional profile. The link search on 6 November 2026
+added 82 links; 84 of the 95 members now have links, including the two existing
+links. Feng Li's `https://feng.li/` link is preserved. Eleven members remain unlinked
+because a suitable current institutional page could not be verified. Link sources
+and access-check notes are recorded in
+`_sources/editorial-board-profile-links-2026-11-06.csv`. When a university profile
+shows a different affiliation, keep the publisher-supplied board affiliation
+unless the board itself is being updated.
+
+Keep missing research interests as `[]`; their
 cards omit the research-interest field. Currently four people have no listed
 research interests: Dietrich von Rosen, Tõnu Kollo, Albert Vexler, and Sylvia
 Frühwirth-Schnatter.
