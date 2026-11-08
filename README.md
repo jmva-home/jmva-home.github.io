@@ -11,7 +11,7 @@ The homepage links to four sections, each in its own subfolder:
 
 | File | Content |
 | --- | --- |
-| [index.md](index.md) | Homepage overview and section links |
+| [index.md](index.md) | Aims and Scope, featured announcement, and section links |
 | [announcements/index.md](announcements/index.md) | Announcements and important notices |
 | [announcements/ecab-call-for-applications.md](announcements/ecab-call-for-applications.md) | Full ECAB call, eligibility, responsibilities, and application instructions |
 | [special-issues/index.md](special-issues/index.md) | Confirmed calls, guest editors, and deadlines |
@@ -24,6 +24,10 @@ matter of the page you changed. Keep the folders and `permalink` values unchange
 so the navigation links continue to work. Add new entries to the relevant section
 page, with the newest or most important first. Use a blockquote (`>`) to highlight
 an important notice. Remove a section's empty-state text when adding its first entry.
+
+The homepage opens with the journal's Aims and Scope, including article length,
+proof placement, topics of interest, and scope exclusions. Edit this section
+directly in `index.md`.
 
 The Announcements section leads with the Early Career Advisory Board (ECAB)
 call for applications, followed by the welcome message. The homepage and
