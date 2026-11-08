@@ -19,8 +19,6 @@ support the continued development and visibility of the journal.
 
 [Read the full call and application instructions →]({{ '/announcements/ecab-call-for-applications/' | relative_url }})
 
-[View the publisher's announcement ↗](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/announcements/early-career-advisory-board-ecab-call-for-applications)
-
 ---
 
 ### Welcome to the JMVA editorial companion

@@ -31,8 +31,9 @@ directly in `index.md`.
 
 The Announcements section leads with the Early Career Advisory Board (ECAB)
 call for applications, followed by the welcome message. The homepage and
-Announcements section link to the full call and the publisher's announcement,
-with an application deadline of 31 January 2027. The section is published at
+Announcements section preview the call and link to its full contents, with an
+application deadline of 31 January 2027. Publisher links appear in the full
+announcement, not in preview snippets. The section is published at
 `/announcements/`, with the full call at `/announcements/ecab-call-for-applications/`.
 The special issues page
 has an empty state until a confirmed call is posted. The homepage and Templates
@@ -107,7 +108,8 @@ For a longer announcement, put the introduction in the section index and create
 a separate Markdown page in `announcements/` with `layout: default`, a unique
 `permalink` under `/announcements/`, and `last_updated` in its front matter.
 Link to that page from the introduction, and feature the newest announcement on
-the homepage.
+the homepage. Keep Elsevier and ScienceDirect links in the full announcement;
+preview snippets should link to the local full-content page.
 
 ### Add a special issue call
 
