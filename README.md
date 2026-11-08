@@ -204,13 +204,17 @@ filenames use Jekyll's unquoted syntax: `{% include editorial-board.html %}`.
 | `_data/editorial_board.yml` | Editable board data and source metadata |
 | `assets/js/editorial-board.js` | Local filtering, result counts, and show-more behaviour |
 | `assets/css/style.css` | Colours, typography, and responsive layout |
+| `assets/images/jmva-cover.jpg` | Journal cover displayed at the top right of the shared page header |
 
 The palette follows the publisher's
-[JMVA journal cover](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/0047259X.jpg):
+[JMVA journal cover](https://ars.els-cdn.com/content/image/X0047259X.jpg):
 burnt orange, terracotta, and cream. The masthead and navigation use deep burnt
 orange, with a warm paper background and serif headings. Navigation labels and
 numbers are larger, and links stack at full width on small screens. The content
 layout becomes a single column on smaller screens.
+The shared header shows a local copy of the supplied cover beside the journal
+title, scaled down on smaller screens. Replace `assets/images/jmva-cover.jpg`
+to refresh the cover image.
 Publisher links lead to the journal's
 [ScienceDirect homepage](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis)
 and its

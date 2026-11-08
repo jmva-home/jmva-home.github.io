@@ -28,9 +28,12 @@
 
     <div class="page-width">
       <section class="hero" aria-labelledby="journal-title">
-        <p class="eyebrow"><span class="accent-line" aria-hidden="true"></span> For the JMVA community</p>
-        <h1 id="journal-title">{{ site.title | escape }}</h1>
-        <p class="hero-description">Editorial updates and resources.<br>A shared reference for your next contribution.</p>
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="accent-line" aria-hidden="true"></span> For the JMVA community</p>
+          <h1 id="journal-title">{{ site.title | escape }}</h1>
+          <p class="hero-description">Editorial updates and resources.<br>A shared reference for your next contribution.</p>
+        </div>
+        <img class="journal-cover" src="{{ '/assets/images/jmva-cover.jpg' | relative_url }}" alt="Journal of Multivariate Analysis cover" width="563" height="768" decoding="async">
       </section>
 
       <nav class="section-nav" aria-label="Main navigation">
