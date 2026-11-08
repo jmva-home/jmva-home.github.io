@@ -17,11 +17,11 @@ support the continued development and visibility of the journal.
 
 **Application deadline: 31 January 2027.**
 
-[Read the full call and application instructions →]({{ '/editorial-messages/ecab-call-for-applications/' | relative_url }})
+[Read the full call and application instructions →]({{ '/announcements/ecab-call-for-applications/' | relative_url }})
 
 [View the publisher's announcement ↗](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/announcements/early-career-advisory-board-ecab-call-for-applications)
 
-[View all announcements →]({{ '/editorial-messages/' | relative_url }})
+[View all announcements →]({{ '/announcements/' | relative_url }})
 
 ---
 

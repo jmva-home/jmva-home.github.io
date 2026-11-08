@@ -12,8 +12,8 @@ The homepage links to four sections, each in its own subfolder:
 | File | Content |
 | --- | --- |
 | [index.md](index.md) | Homepage overview and section links |
-| [editorial-messages/index.md](editorial-messages/index.md) | Announcements and important notices |
-| [editorial-messages/ecab-call-for-applications.md](editorial-messages/ecab-call-for-applications.md) | Full ECAB call, eligibility, responsibilities, and application instructions |
+| [announcements/index.md](announcements/index.md) | Announcements and important notices |
+| [announcements/ecab-call-for-applications.md](announcements/ecab-call-for-applications.md) | Full ECAB call, eligibility, responsibilities, and application instructions |
 | [special-issues/index.md](special-issues/index.md) | Confirmed calls, guest editors, and deadlines |
 | [templates/index.md](templates/index.md) | JMVA LaTeX template repository, latest ZIP download, and preparation instructions |
 | [editorial-board/index.md](editorial-board/index.md) | Searchable board directory and its `editorial_board` display setting |
@@ -28,8 +28,9 @@ an important notice. Remove a section's empty-state text when adding its first e
 The Announcements section leads with the Early Career Advisory Board (ECAB)
 call for applications, followed by the welcome message. The homepage and
 Announcements section link to the full call and the publisher's announcement,
-with an application deadline of 31 January 2027. The public section URL remains
-`/editorial-messages/` so existing links continue to work. The special issues page
+with an application deadline of 31 January 2027. The section is published at
+`/announcements/`, with the full call at `/announcements/ecab-call-for-applications/`.
+The special issues page
 has an empty state until a confirmed call is posted. The homepage and Templates
 page explain that the editors ask authors to use the editor-approved JMVA LaTeX
 template in place of Elsevier's standard template to follow JMVA's own style.
@@ -86,7 +87,7 @@ is sent to a server, and there is no runtime request to ScienceDirect.
 
 ### Add an announcement
 
-Add this to `editorial-messages/index.md`, replacing the example fields:
+Add this to `announcements/index.md`, replacing the example fields:
 
 ```markdown
 ### [Announcement title]
@@ -99,8 +100,8 @@ Add this to `editorial-messages/index.md`, replacing the example fields:
 ```
 
 For a longer announcement, put the introduction in the section index and create
-a separate Markdown page in `editorial-messages/` with `layout: default`, a unique
-`permalink` under `/editorial-messages/`, and `last_updated` in its front matter.
+a separate Markdown page in `announcements/` with `layout: default`, a unique
+`permalink` under `/announcements/`, and `last_updated` in its front matter.
 Link to that page from the introduction, and feature the newest announcement on
 the homepage.
 
@@ -187,7 +188,7 @@ filenames use Jekyll's unquoted syntax: `{% include editorial-board.html %}`.
 | File | Purpose |
 | --- | --- |
 | `index.md` | Homepage overview and section links |
-| `editorial-messages/` | Announcements in `index.md` and linked full announcement pages |
+| `announcements/` | Announcements in `index.md` and linked full announcement pages |
 | `special-issues/` | Special issue calls in `index.md` and related call documents |
 | `templates/` | Template instructions in `index.md` and optional approved file uploads |
 | `editorial-board/` | Searchable directory page and its display setting |
