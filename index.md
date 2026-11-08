@@ -2,14 +2,26 @@
 layout: default
 title: Editorial companion
 permalink: /
-last_updated: "2026-11-06"
+last_updated: "2026-11-08"
 ---
 
-## Editorial messages
+## Announcements
 
-Important announcements and updates for authors, reviewers, and guest editors.
+### Early Career Advisory Board (ECAB) – Call for Applications!
 
-[Read editorial messages →]({{ '/editorial-messages/' | relative_url }})
+*Journal of Multivariate Analysis* (JMVA) is pleased to announce a call for
+applications for its Early Career Advisory Board (ECAB). The ECAB is intended
+to recognise outstanding early career researchers in multivariate analysis and
+related areas, provide them with meaningful exposure to editorial work, and
+support the continued development and visibility of the journal.
+
+**Application deadline: 31 January 2027.**
+
+[Read the full call and application instructions →]({{ '/editorial-messages/ecab-call-for-applications/' | relative_url }})
+
+[View the publisher's announcement ↗](https://www.sciencedirect.com/journal/journal-of-multivariate-analysis/about/announcements/early-career-advisory-board-ecab-call-for-applications)
+
+[View all announcements →]({{ '/editorial-messages/' | relative_url }})
 
 ---
 

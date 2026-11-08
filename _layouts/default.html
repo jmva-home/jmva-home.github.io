@@ -35,7 +35,7 @@
 
       <nav class="section-nav" aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
-        <a href="{{ '/editorial-messages/' | relative_url }}"{% if page.url == '/editorial-messages/' %} aria-current="page"{% endif %}><span aria-hidden="true">01</span> Editorial messages</a>
+        <a href="{{ '/editorial-messages/' | relative_url }}"{% if page.url contains '/editorial-messages/' %} aria-current="page"{% endif %}><span aria-hidden="true">01</span> Announcements</a>
         <a href="{{ '/special-issues/' | relative_url }}"{% if page.url == '/special-issues/' %} aria-current="page"{% endif %}><span aria-hidden="true">02</span> Special issues</a>
         <a href="{{ '/templates/' | relative_url }}"{% if page.url == '/templates/' %} aria-current="page"{% endif %}><span aria-hidden="true">03</span> Templates</a>
         <a href="{{ '/editorial-board/' | relative_url }}"{% if page.url == '/editorial-board/' %} aria-current="page"{% endif %}><span aria-hidden="true">04</span> Editorial board</a>
